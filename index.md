@@ -86,6 +86,8 @@
 
 - [Data Privacy: Foundations and Applications](https://simons.berkeley.edu/programs/privacy2019), Simons Institute for the Theory of Computing, 2019. 
 
-- [Computer Science 208: Applied Privacy for Data Science](http://people.seas.harvard.edu/~salil/cs208/), [James Honaker](https://scholar.google.com/citations?user=q0WV4cgAAAAJ&hl=en) and [Salil Vadhan](https://scholar.google.com/citations?user=dqVjyRQAAAAJ&hl=en), Harvard, 2019.
+- [Harvard Computer Science 208: Applied Privacy for Data Science](http://people.seas.harvard.edu/~salil/cs208/), [James Honaker](https://scholar.google.com/citations?user=q0WV4cgAAAAJ&hl=en) and [Salil Vadhan](https://scholar.google.com/citations?user=dqVjyRQAAAAJ&hl=en), Harvard, 2019.
+
+- [Boston University CS 591 S1: Privacy in Machine Learning and Statistical Inference](https://docs.google.com/document/d/1jsZLEd3ZM-ZWdNAjNRI4_bgPysRUsKQDHvy4VKgtzJ8/edit), [Adam Smith](https://scholar.google.com.sg/citations?user=fkGi-JMAAAAJ&hl=en), 2018.
 
 - [The Algorithmic Foundations of Adaptive Data Analysis](https://adaptivedataanalysis.com/), [Adam Smith](https://scholar.google.com.sg/citations?user=fkGi-JMAAAAJ&hl=en) and [Aaron Roth](https://scholar.google.com/citations?user=kLUQrrYAAAAJ&hl=en), UPenn and Boston University, 2017.
