@@ -4,6 +4,10 @@
 
 ### Data Inference Attacks
 
+- Background
+
+  - [Cynthia Dwork](https://scholar.google.com.sg/citations?user=y2H5xmkAAAAJ&hl=en), [Adam Smith](https://scholar.google.com.sg/citations?user=fkGi-JMAAAAJ&hl=en), [Thomas Steinke](https://scholar.google.com.sg/citations?user=kwnwhrgAAAAJ&hl=en), and [Jonathan Ullman](https://scholar.google.com.sg/citations?user=WfS41RAAAAAJ&hl=en). "**Exposed! a survey of attacks on private data**." In Annual Review of Statistics and Its Application, 2017. [[**paper**](https://projects.iq.harvard.edu/files/privacytools/files/pdf_02.pdf)]
+  
 - [Reza Shokri](https://scholar.google.com/citations?user=udlZXXcAAAAJ&hl=en), Marco Stronati, [Congzheng Song](https://scholar.google.com/citations?user=lkPKfjgAAAAJ&hl=en), and [Vitaly Shmatikov](https://www.cs.cornell.edu/~shmat/). "**Membership inference attacks against machine learning models**." In IEEE Symposium on Security and Privacy (SP), 2017. [[**paper**](https://www.comp.nus.edu.sg/~reza/files/Shokri-SP2017.pdf)] [[**conference talk**](https://www.youtube.com/watch?v=rDm1n2gceJY)] [[**citations**](https://scholar.google.com.sg/scholar?cites=8935131557155912004&as_sdt=2005&sciodt=0,5&hl=en)]
 
 - [Milad Nasr](https://scholar.google.com/citations?user=k6-nvDAAAAAJ&hl=en), [Reza Shokri](https://scholar.google.com/citations?user=udlZXXcAAAAJ&hl=en), and [Amir Houmansadr](https://scholar.google.com/citations?user=cTTFHNwAAAAJ&hl=en). "**Comprehensive privacy analysis of deep learning: Passive and active white-box inference attacks against centralized and federated learning**." In IEEE Symposium on Security and Privacy (SP), 2019. [[**paper**](https://www.comp.nus.edu.sg/~reza/files/Shokri-SP2019.pdf)] [[**conference talk**](https://www.youtube.com/watch?v=lzJY4BjCxTc)] [[**citations**](https://scholar.google.com.sg/scholar?oi=bibs&hl=en&cites=2009427570736671135,3616975283750298005,4006729549039865027)]
@@ -22,6 +26,12 @@
 
 ### Privacy-Preserving Learning
 
+- Background
+
+  - [Cynthia Dwork](https://scholar.google.com.sg/citations?user=y2H5xmkAAAAJ&hl=en), [Frank McSherry](https://scholar.google.com/citations?user=YYJ3aycAAAAJ&hl=en), [Kobbi Nissim](https://scholar.google.com/citations?user=U-RE8IgAAAAJ&hl=en), and [Adam Smith](https://scholar.google.com.sg/citations?user=fkGi-JMAAAAJ&hl=en). "**Calibrating noise to sensitivity in private data analysis**." In Theory of cryptography conference, 2006. [[**paper**](https://iacr.org/archive/tcc2006/38760266/38760266.pdf)] 
+  
+  - [Cynthia Dwork](https://scholar.google.com.sg/citations?user=y2H5xmkAAAAJ&hl=en), and [Aaron Roth](https://scholar.google.com/citations?user=kLUQrrYAAAAJ&hl=en). "**The algorithmic foundations of differential privacy**." Foundations and Trends in Theoretical Computer Science 9, 2014. [[**book**](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf)]
+
 - [Kamalika Chaudhuri](https://scholar.google.com.sg/citations?user=I-DJ7EsAAAAJ&hl=en), Claire Monteleoni, and [Anand D. Sarwate](https://scholar.google.com.sg/citations?user=jgr1-eEAAAAJ&hl=en). "**Differentially private empirical risk minimization**." In Journal of Machine Learning Research 12, no. 3, 2011. [[**paper**](https://jmlr.csail.mit.edu/papers/volume12/chaudhuri11a/chaudhuri11a.pdf)] [[**tutorial talk at NIPS 2017**](https://vimeo.com/248492174)] [[**citations**](https://scholar.google.com.sg/scholar?cites=3955023019589847494&as_sdt=2005&sciodt=0,5&hl=en)]
 
 - [Raef Bassily](https://scholar.google.com.sg/citations?user=C8qMVQUAAAAJ&hl=en), [Adam Smith](https://scholar.google.com.sg/citations?user=fkGi-JMAAAAJ&hl=en), and [Abhradeep Thakurta](https://scholar.google.com.sg/citations?user=1rV69hMAAAAJ&hl=en). "**Private empirical risk minimization: Efficient algorithms and tight error bounds**." In IEEE 55th Annual Symposium on Foundations of Computer Science, 2014. [[**paper**](https://arxiv.org/pdf/1405.7085)] [[**talk by AT at MSR**](https://www.youtube.com/watch?v=djjO2sS3jac)] [[**follow-up paper**](https://robobees.seas.harvard.edu/files/privacytools/files/1405.7085v1.pdf)] [[**citations**](https://scholar.google.com.sg/scholar?cites=10593391545542726017&as_sdt=2005&sciodt=0,5&hl=en)]
@@ -31,6 +41,14 @@
 - [Nicolas Papernot](https://scholar.google.com.sg/citations?user=cGxq0cMAAAAJ&hl=en), [Martin Abadi](https://scholar.google.com.sg/citations?user=vWTI60AAAAAJ&hl=en), [Úlfar Erlingsson](https://scholar.google.com/citations?user=cX2HlhQAAAAJ&hl=en), [Ian Goodfellow](https://scholar.google.com.sg/citations?user=iYN86KEAAAAJ&hl=en), and [Kunal Talwar](https://scholar.google.com.sg/citations?user=XD_01h8AAAAJ&hl=en). "**Semi-supervised knowledge transfer for deep learning from private training data**." In Proceedings of the 5th International Conference on Learning Representations, 2017. [[**paper**](https://arxiv.org/pdf/1610.05755)] [[**conference talk**](https://www.youtube.com/watch?v=bDayquwDgjU)] [[**follow-up paper**](https://arxiv.org/pdf/1802.08908)] [[**citations**](https://scholar.google.com.sg/scholar?cites=7453137533162499463&as_sdt=2005&sciodt=0,5&hl=en)]
 
 - [Milad Nasr](https://scholar.google.com/citations?user=k6-nvDAAAAAJ&hl=en), [Reza Shokri](https://scholar.google.com/citations?user=udlZXXcAAAAJ&hl=en), and [Amir Houmansadr](https://scholar.google.com/citations?user=cTTFHNwAAAAJ&hl=en). "**Machine learning with membership privacy using adversarial regularization**." In Proceedings of the 2018 ACM SIGSAC Conference on Computer and Communications Security, 2018. [[**paper**](https://www.comp.nus.edu.sg/~reza/files/Shokri-CCS2018.pdf)] [[**conference talk**](https://www.youtube.com/watch?v=53gELTL3ibA)] [[**citations**](https://scholar.google.com.sg/scholar?cites=8366684875630861099&as_sdt=2005&sciodt=0,5&hl=en)]
+
+- Overview Talks
+
+  - [Adam Smith](https://scholar.google.com.sg/citations?user=fkGi-JMAAAAJ&hl=en), "**Differential Privacy**." [[Tutorial](https://www.youtube.com/watch?v=Xz7k0wIW9nc)]
+  
+  - [Kunal Talwar](https://scholar.google.com.sg/citations?user=XD_01h8AAAAJ&hl=en), "**Large-Scale Private Learning**." [[Part I](https://www.youtube.com/watch?v=Cwx4LJutHt8)], [[Part II](https://www.youtube.com/watch?v=HsXJnW0Hi4k)]
+  
+  - [Ilya Mironov](https://scholar.google.com/citations?user=hg3A9TgAAAAJ&hl=en), "**Rényi Differential Privacy**." [[Talk](https://www.youtube.com/watch?v=oQzaA5KG3pM)]
 
 ### Confidential Computing
 
@@ -45,6 +63,10 @@
 - [Reza Shokri](https://scholar.google.com/citations?user=udlZXXcAAAAJ&hl=en), and [Vitaly Shmatikov](https://www.cs.cornell.edu/~shmat/). "**Privacy-preserving deep learning**." In Proceedings of the 22nd ACM SIGSAC conference on computer and communications security, 2015. [[**paper**](https://www.comp.nus.edu.sg/~reza/files/Shokri-CCS2015.pdf)] [[**citations**](https://scholar.google.com.sg/scholar?cites=13974194320253379739&as_sdt=2005&sciodt=0,5&hl=en)]
 
 - [Brendan McMahan](https://scholar.google.com.sg/citations?user=iKPWydkAAAAJ&hl=en), Eider Moore, [Daniel Ramage](https://scholar.google.com.sg/citations?user=D0NeJxMAAAAJ&hl=en), Seth Hampson, and Blaise Aguera y Arcas. "**Communication-efficient learning of deep networks from decentralized data**." In Artificial Intelligence and Statistics, 2017. [[**paper**](https://arxiv.org/pdf/1602.05629)] [[**citations**](https://scholar.google.com.sg/scholar?oi=bibs&hl=en&cites=121527355242954284&as_sdt=5)]
+
+- [Virginia Smith](https://scholar.google.com.sg/citations?user=bldHpWIAAAAJ&hl=en), [Chao-Kai Chiang](https://scholar.google.com.sg/citations?user=pBQgK_YAAAAJ&hl=en), [Maziar Sanjabi](https://scholar.google.com.sg/citations?user=bc_N2-oAAAAJ&hl=en), and [Ameet S. Talwalkar](https://scholar.google.co.th/citations?user=TW7U1W0AAAAJ&hl=en). "**Federated multi-task learning**." In Advances in Neural Information Processing Systems, 2017. [[**paper**](http://papers.nips.cc/paper/7029-federated-multi-task-learning.pdf)] [[**citations**](https://scholar.google.com.sg/scholar?cites=2729989706953112243&as_sdt=2005&sciodt=0,5&hl=en)]
+
+- [Peter Kairouz](https://scholar.google.com.sg/citations?user=m8NUgw0AAAAJ&hl=en) et al. "**Advances and open problems in federated learning**." arXiv preprint arXiv:1912.04977, 2019. [[**paper**](https://arxiv.org/pdf/1912.04977)]
 
 ### Law and Policy
 
