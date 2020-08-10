@@ -46,6 +46,10 @@
 
 - [Brendan McMahan](https://scholar.google.com.sg/citations?user=iKPWydkAAAAJ&hl=en), Eider Moore, [Daniel Ramage](https://scholar.google.com.sg/citations?user=D0NeJxMAAAAJ&hl=en), Seth Hampson, and Blaise Aguera y Arcas. "**Communication-efficient learning of deep networks from decentralized data**." In Artificial Intelligence and Statistics, 2017. [[**paper**](https://arxiv.org/pdf/1602.05629)] [[**citations**](https://scholar.google.com.sg/scholar?oi=bibs&hl=en&cites=121527355242954284&as_sdt=5)]
 
+### Law and Policy
+
+- [Kobbi Nissim](https://scholar.google.com/citations?user=U-RE8IgAAAAJ&hl=en), [Aaron Bembenek](https://scholar.google.com/citations?user=Ql2u7VoAAAAJ&hl=en), [Alexandra Wood](https://cyber.harvard.edu/people/awood), [Mark Bun](https://scholar.google.com/citations?user=oDwLyYUAAAAJ&hl=en), [Marco Gaboardi](https://scholar.google.com/citations?user=5b8D1MgAAAAJ&hl=en), [Urs Gasser](https://cyber.harvard.edu/people/ugasser), [David R. O'Brien](https://cyber.harvard.edu/people/dobrien), [Thomas Steinke](https://scholar.google.com/citations?user=kwnwhrgAAAAJ&hl=en), and [Salil Vadhan](https://scholar.google.com/citations?user=dqVjyRQAAAAJ&hl=en). "**Bridging the gap between computer science and legal approaches to privacy**." Harvard Journal of Law & Technology, Volume 31, 2018. [[**paper**](https://dash.harvard.edu/bitstream/handle/1/37355739/Bridging_the_Gap_between_Computer_Science_and_Legal_Approaches_to_Privacy.pdf)] [[**talk by KN**](https://www.youtube.com/watch?v=4FRbAmXvec8)]
+
 ### Tools and Libraries
 
 - [TensorFlow Privacy](https://github.com/tensorflow/privacy)
