@@ -10,7 +10,6 @@
 
 - [Nicholas Carlini](https://scholar.google.com/citations?user=q4qDvAoAAAAJ&hl=en), Chang Liu, [Úlfar Erlingsson](https://scholar.google.com/citations?user=cX2HlhQAAAAJ&hl=en), Jernej Kos, and [Dawn Song](https://scholar.google.com/citations?user=84WzBlYAAAAJ&hl=en). "**The secret sharer: Evaluating and testing unintended memorization in neural networks**." In USENIX Security Symposium, 2019. [[**paper**](https://www.usenix.org/system/files/sec19-carlini.pdf)]  [[**conference talk**](https://www.youtube.com/watch?v=U9XbFtCWedE)] [[**citations**](https://scholar.google.com/scholar?cites=14719809661253001007&as_sdt=2005&sciodt=0,5&hl=en)]
 
-
 ### Model Inference Attacks
 
 - [Florian Tramèr](https://scholar.google.com.sg/citations?user=ijH0-a8AAAAJ&hl=en&oi=sra), Fan Zhang, Ari Juels, Michael K. Reiter, and [Thomas Ristenpart](https://scholar.google.com.sg/citations?user=MGVrVSIAAAAJ&hl=en). "**Stealing machine learning models via prediction APIs**." In USENIX Security Symposium, 2016. [[**paper**](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_tramer.pdf)] [[**conference talk**](https://www.youtube.com/watch?v=qGjzmEzPkiI)] [[**citations**](https://scholar.google.com/scholar?cites=14391097248497422196&as_sdt=2005&sciodt=0,5&hl=en)]
@@ -45,7 +44,7 @@
 
 - [Reza Shokri](https://scholar.google.com/citations?user=udlZXXcAAAAJ&hl=en), and [Vitaly Shmatikov](https://www.cs.cornell.edu/~shmat/). "**Privacy-preserving deep learning**." In Proceedings of the 22nd ACM SIGSAC conference on computer and communications security, 2015. [[**paper**](https://www.comp.nus.edu.sg/~reza/files/Shokri-CCS2015.pdf)] [[**citations**](https://scholar.google.com.sg/scholar?cites=13974194320253379739&as_sdt=2005&sciodt=0,5&hl=en)]
 
-- [Brendan McMahan](https://scholar.google.com.sg/citations?user=iKPWydkAAAAJ&hl=en), Eider Moore, [Daniel Ramage](https://scholar.google.com.sg/citations?user=D0NeJxMAAAAJ&hl=en), Seth Hampson, and Blaise Aguera y Arcas. "**Communication-efficient learning of deep networks from decentralized data**." In Artificial Intelligence and Statistics, 2017. [[**paper**]()] [[**citations**](https://scholar.google.com.sg/scholar?oi=bibs&hl=en&cites=121527355242954284&as_sdt=5)]
+- [Brendan McMahan](https://scholar.google.com.sg/citations?user=iKPWydkAAAAJ&hl=en), Eider Moore, [Daniel Ramage](https://scholar.google.com.sg/citations?user=D0NeJxMAAAAJ&hl=en), Seth Hampson, and Blaise Aguera y Arcas. "**Communication-efficient learning of deep networks from decentralized data**." In Artificial Intelligence and Statistics, 2017. [[**paper**](https://arxiv.org/pdf/1602.05629)] [[**citations**](https://scholar.google.com.sg/scholar?oi=bibs&hl=en&cites=121527355242954284&as_sdt=5)]
 
 ### Tools and Libraries
 
