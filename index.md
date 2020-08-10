@@ -88,4 +88,4 @@
 
 - [Computer Science 208: Applied Privacy for Data Science](http://people.seas.harvard.edu/~salil/cs208/), [James Honaker](https://scholar.google.com/citations?user=q0WV4cgAAAAJ&hl=en) and [Salil Vadhan](https://scholar.google.com/citations?user=dqVjyRQAAAAJ&hl=en), Harvard, 2019.
 
-- [The Algorithmic Foundations of Adaptive Data Analysis](https://adaptivedataanalysis.com/), [Adam Smith](https://scholar.google.com.sg/citations?user=fkGi-JMAAAAJ&hl=en), [Aaron Roth](https://scholar.google.com/citations?user=kLUQrrYAAAAJ&hl=en), UPenn and Boston University, 2017.
+- [The Algorithmic Foundations of Adaptive Data Analysis](https://adaptivedataanalysis.com/), [Adam Smith](https://scholar.google.com.sg/citations?user=fkGi-JMAAAAJ&hl=en) and [Aaron Roth](https://scholar.google.com/citations?user=kLUQrrYAAAAJ&hl=en), UPenn and Boston University, 2017.
