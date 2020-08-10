@@ -47,7 +47,7 @@
 
 - [Brendan McMahan](https://scholar.google.com.sg/citations?user=iKPWydkAAAAJ&hl=en), Eider Moore, [Daniel Ramage](https://scholar.google.com.sg/citations?user=D0NeJxMAAAAJ&hl=en), Seth Hampson, and Blaise Aguera y Arcas. "**Communication-efficient learning of deep networks from decentralized data**." In Artificial Intelligence and Statistics, 2017. [[**paper**]()] [[**citations**](https://scholar.google.com.sg/scholar?oi=bibs&hl=en&cites=121527355242954284&as_sdt=5)]
 
-### Tools and Software 
+### Tools and Libraries
 
 - [TensorFlow Privacy](https://github.com/tensorflow/privacy)
 
