@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# Trustworthy Machine Learning
 
-You can use the [editor on GitHub](https://github.com/trustworthy-machine-learning/trustworthy-machine-learning.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Privacy and Confidentiality
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Data Inference Attacks
 
-### Markdown
+- [Reza Shokri](https://scholar.google.com/citations?user=udlZXXcAAAAJ&hl=en), Marco Stronati, [Congzheng Song](https://scholar.google.com/citations?user=lkPKfjgAAAAJ&hl=en), and [Vitaly Shmatikov](https://www.cs.cornell.edu/~shmat/). "**Membership inference attacks against machine learning models**." In IEEE Symposium on Security and Privacy (SP), 2017. [[**paper**](https://www.comp.nus.edu.sg/~reza/files/Shokri-SP2017.pdf)] [[**conference talk**](https://www.youtube.com/watch?v=rDm1n2gceJY)]
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [Milad Nasr](https://scholar.google.com/citations?user=k6-nvDAAAAAJ&hl=en), [Reza Shokri](https://scholar.google.com/citations?user=udlZXXcAAAAJ&hl=en), and [Amir Houmansadr](https://scholar.google.com/citations?user=cTTFHNwAAAAJ&hl=en). "**Comprehensive privacy analysis of deep learning: Passive and active white-box inference attacks against centralized and federated learning**." In IEEE Symposium on Security and Privacy (SP), 2019. [[**paper**](https://www.comp.nus.edu.sg/~reza/files/Shokri-SP2019.pdf)] [[**conference talk**](https://www.youtube.com/watch?v=lzJY4BjCxTc)]
 
-```markdown
-Syntax highlighted code block
+- [Nicholas Carlini](https://scholar.google.com/citations?user=q4qDvAoAAAAJ&hl=en), Chang Liu, [Úlfar Erlingsson](https://scholar.google.com/citations?user=cX2HlhQAAAAJ&hl=en), Jernej Kos, and [Dawn Song](https://scholar.google.com/citations?user=84WzBlYAAAAJ&hl=en). "**The secret sharer: Evaluating and testing unintended memorization in neural networks**." In USENIX Security Symposium, 2019. [[**paper**](https://www.usenix.org/system/files/sec19-carlini.pdf)]  [[**conference talk**](https://www.youtube.com/watch?v=U9XbFtCWedE)]
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Model Inference Attacks
 
-1. Numbered
-2. List
+- [Florian Tramèr](https://scholar.google.com.sg/citations?user=ijH0-a8AAAAJ&hl=en&oi=sra), Fan Zhang, Ari Juels, Michael K. Reiter, and [Thomas Ristenpart](https://scholar.google.com.sg/citations?user=MGVrVSIAAAAJ&hl=en). "**Stealing machine learning models via prediction APIs**." In USENIX Security Symposium, 2016. [[**paper**](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_tramer.pdf)] [[**conference talk**](https://www.youtube.com/watch?v=qGjzmEzPkiI)]
 
-**Bold** and _Italic_ and `Code` text
+- [Lejla Batina](https://scholar.google.com.sg/citations?user=jsDgMzkAAAAJ&hl=en), Shivam Bhasin, Dirmanto Jap, and Stjepan Picek. "**CSI NN: Reverse Engineering of Neural Network Architectures Through Electromagnetic Side Channel**." In USENIX Security Symposium, 2019. [[**paper**](https://www.usenix.org/system/files/sec19-batina.pdf)] [[**conference talk**](https://www.youtube.com/watch?v=dZbrBILRz_c)]
 
-[Link](url) and ![Image](src)
-```
+- [Varun Chandrasekaran](https://scholar.google.com.sg/citations?user=Sl7nSOsAAAAJ&hl=en), [Kamalika Chaudhuri](https://scholar.google.com/citations?user=I-DJ7EsAAAAJ&hl=en), Irene Giacomelli, [Somesh Jha](https://scholar.google.com.sg/citations?user=BaI7l8QAAAAJ&hl=en) and Songbai Yan. "**Exploring Connections Between Active Learning and Model Extraction**." In USENIX Security Symposium, 2020. [[**paper**](https://www.usenix.org/system/files/sec20-chandrasekaran.pdf)] 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- [Matthew Jagielski](https://scholar.google.com.sg/citations?user=_8rw_GMAAAAJ&hl=en), [Nicholas Carlini](https://scholar.google.com/citations?user=q4qDvAoAAAAJ&hl=en), David Berthelot, Alex Kurakin and [Nicolas Papernot](https://scholar.google.com.sg/citations?user=cGxq0cMAAAAJ&hl=en). "**High Accuracy and High Fidelity Extraction of Neural Networks**." In USENIX Security Symposium, 2020. [[**paper**](https://www.usenix.org/system/files/sec20-jagielski.pdf)]
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/trustworthy-machine-learning/trustworthy-machine-learning.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
