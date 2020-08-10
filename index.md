@@ -70,7 +70,7 @@
 
 ### Law and Policy
 
-- [Kobbi Nissim](https://scholar.google.com/citations?user=U-RE8IgAAAAJ&hl=en), [Aaron Bembenek](https://scholar.google.com/citations?user=Ql2u7VoAAAAJ&hl=en), [Alexandra Wood](https://cyber.harvard.edu/people/awood), [Mark Bun](https://scholar.google.com/citations?user=oDwLyYUAAAAJ&hl=en), [Marco Gaboardi](https://scholar.google.com/citations?user=5b8D1MgAAAAJ&hl=en), [Urs Gasser](https://cyber.harvard.edu/people/ugasser), [David R. O'Brien](https://cyber.harvard.edu/people/dobrien), [Thomas Steinke](https://scholar.google.com/citations?user=kwnwhrgAAAAJ&hl=en), and [Salil Vadhan](https://scholar.google.com/citations?user=dqVjyRQAAAAJ&hl=en). "**Bridging the gap between computer science and legal approaches to privacy**." Harvard Journal of Law & Technology, Volume 31, 2018. [[**paper**](https://dash.harvard.edu/bitstream/handle/1/37355739/Bridging_the_Gap_between_Computer_Science_and_Legal_Approaches_to_Privacy.pdf)] [[**talk by KN**](https://www.youtube.com/watch?v=4FRbAmXvec8)]
+- [Kobbi Nissim](https://scholar.google.com/citations?user=U-RE8IgAAAAJ&hl=en), [Aaron Bembenek](https://scholar.google.com/citations?user=Ql2u7VoAAAAJ&hl=en), [Alexandra Wood](https://cyber.harvard.edu/people/awood), [Mark Bun](https://scholar.google.com/citations?user=oDwLyYUAAAAJ&hl=en), [Marco Gaboardi](https://scholar.google.com/citations?user=5b8D1MgAAAAJ&hl=en), [Urs Gasser](https://cyber.harvard.edu/people/ugasser), [David R. O'Brien](https://cyber.harvard.edu/people/dobrien), [Thomas Steinke](https://scholar.google.com/citations?user=kwnwhrgAAAAJ&hl=en), and [Salil Vadhan](https://scholar.google.com/citations?user=dqVjyRQAAAAJ&hl=en). "**Bridging the gap between computer science and legal approaches to privacy**." Harvard Journal of Law & Technology, Volume 31, 2018. [[**paper**](https://dash.harvard.edu/bitstream/handle/1/37355739/Bridging_the_Gap_between_Computer_Science_and_Legal_Approaches_to_Privacy.pdf)] [[**talk by KN**](https://www.youtube.com/watch?v=4FRbAmXvec8)] [[**citations**](https://scholar.google.com/scholar?cites=12818689832408026903&as_sdt=2005&sciodt=0,5&hl=en)]
 
 ### Tools and Libraries
 
@@ -80,5 +80,7 @@
 
 - [ML Privacy Meter](https://github.com/privacytrustlab/ml_privacy_meter) [[**talk**](https://www.youtube.com/watch?v=DWqnKNZTz10)]
 
+### Related Courses and Schools
 
+- [Data Privacy: Foundations and Applications](https://simons.berkeley.edu/programs/privacy2019), [Simons Institute](https://simons.berkeley.edu), 2019. 
 
