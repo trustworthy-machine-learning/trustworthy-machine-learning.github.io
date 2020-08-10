@@ -44,11 +44,11 @@
 
 - Overview Talks
 
-  - [Adam Smith](https://scholar.google.com.sg/citations?user=fkGi-JMAAAAJ&hl=en), "**Differential Privacy**." [[Tutorial](https://www.youtube.com/watch?v=Xz7k0wIW9nc)]
+  - [Adam Smith](https://scholar.google.com.sg/citations?user=fkGi-JMAAAAJ&hl=en), "**Differential Privacy**." 2019. [[Tutorial](https://www.youtube.com/watch?v=Xz7k0wIW9nc)]
   
-  - [Kunal Talwar](https://scholar.google.com.sg/citations?user=XD_01h8AAAAJ&hl=en), "**Large-Scale Private Learning**." [[Part I](https://www.youtube.com/watch?v=Cwx4LJutHt8)], [[Part II](https://www.youtube.com/watch?v=HsXJnW0Hi4k)]
+  - [Kunal Talwar](https://scholar.google.com.sg/citations?user=XD_01h8AAAAJ&hl=en), "**Large-Scale Private Learning**." 2019. [[Part I](https://www.youtube.com/watch?v=Cwx4LJutHt8)], [[Part II](https://www.youtube.com/watch?v=HsXJnW0Hi4k)]
   
-  - [Ilya Mironov](https://scholar.google.com/citations?user=hg3A9TgAAAAJ&hl=en), "**Rényi Differential Privacy**." [[Talk](https://www.youtube.com/watch?v=oQzaA5KG3pM)]
+  - [Ilya Mironov](https://scholar.google.com/citations?user=hg3A9TgAAAAJ&hl=en), "**Rényi Differential Privacy**." 2018. [[Talk](https://www.youtube.com/watch?v=oQzaA5KG3pM)]
 
 ### Confidential Computing
 
