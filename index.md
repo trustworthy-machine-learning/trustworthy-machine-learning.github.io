@@ -58,6 +58,12 @@
 
 - [Olga Ohrimenko](https://scholar.google.com/citations?user=lzfVm_8AAAAJ&hl=en), [Felix Schuster](https://scholar.google.de/citations?user=YKAVKXAAAAAJ&hl=en), [Cédric Fournet](https://scholar.google.de/citations?user=I30A7HcAAAAJ&hl=en), Aastha Mehta, Sebastian Nowozin, Kapil Vaswani, and Manuel Costa. "**Oblivious multi-party machine learning on trusted processors**." In 25th USENIX Security Symposium, 2016. [[**paper**](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_ohrimenko.pdf)] [[**conference talk**](https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/ohrimenko)] [[**citations**](https://scholar.google.com.sg/scholar?cites=14174388165763279983&as_sdt=2005&sciodt=0,5&hl=en)] 
 
+### Machine Unlearning
+
+- [Lucas Bourtoule](https://scholar.google.com.sg/citations?user=Elvl65kAAAAJ&hl=en), [Varun Chandrasekaran](https://scholar.google.com.sg/citations?user=Sl7nSOsAAAAJ&hl=en), Christopher Choquette-Choo, Hengrui Jia, Adelin Travers, Baiwu Zhang, [David Lie](https://scholar.google.com.sg/citations?user=Qm_3B70AAAAJ&hl=en), and [Nicolas Papernot](https://scholar.google.com.sg/citations?user=cGxq0cMAAAAJ&hl=en). "**Machine unlearning**." arXiv preprint arXiv:1912.03817, 2019. [[**paper**](https://arxiv.org/pdf/1912.03817)]
+
+- [Seth Neel](https://scholar.google.com.sg/citations?user=k4Q3TYwAAAAJ&hl=en), [Aaron Roth](https://scholar.google.com.sg/citations?user=kLUQrrYAAAAJ&hl=en), and [Saeed Sharifi-Malvajerdi](https://scholar.google.com.sg/citations?user=lRhBdecAAAAJ&hl=en). "**Descent-to-Delete: Gradient-Based Methods for Machine Unlearning**." arXiv preprint arXiv:2007.02923, 2020. [[**paper**](https://arxiv.org/pdf/2007.02923)]
+
 ### Decentralized (Collaborative, Federated) Learning
 
 - [Reza Shokri](https://scholar.google.com/citations?user=udlZXXcAAAAJ&hl=en), and [Vitaly Shmatikov](https://www.cs.cornell.edu/~shmat/). "**Privacy-preserving deep learning**." In Proceedings of the 22nd ACM SIGSAC conference on computer and communications security, 2015. [[**paper**](https://www.comp.nus.edu.sg/~reza/files/Shokri-CCS2015.pdf)] [[**citations**](https://scholar.google.com.sg/scholar?cites=13974194320253379739&as_sdt=2005&sciodt=0,5&hl=en)]
@@ -99,17 +105,27 @@
 
 ### Inference Phase
 
+#### Attacks
+
 - [Nicholas Carlini](https://scholar.google.com/citations?user=q4qDvAoAAAAJ&hl=en), and [David Wagner](https://scholar.google.com/citations?user=67kghxAAAAAJ&hl=en). "**Towards evaluating the robustness of neural networks**." In IEEE symposium on security and privacy (SP), 2017. [[**paper**](https://www.ieee-security.org/TC/SP2017/papers/518.pdf)] [[**conference talk**](https://www.youtube.com/watch?v=yIXNL88JBWQ)] [[**citations**](https://scholar.google.com/scholar?cites=6732985638826567603&as_sdt=2005&sciodt=0,5&hl=en)]
+
+#### Defenses
 
 - [Aleksander Madry](https://scholar.google.com/citations?user=SupjsEUAAAAJ&hl=en), [Aleksandar Makelov](https://scholar.google.com/citations?user=haO4sKoAAAAJ&hl=en), [Ludwig Schmidt](https://scholar.google.com/citations?user=SWMKy70AAAAJ&hl=en), [Dimitris Tsipras](https://scholar.google.com/citations?user=26eh1jAAAAAJ&hl=en), and [Adrian Vladu](https://scholar.google.com/citations?user=5qh5cc0AAAAJ&hl=en). "**Towards Deep Learning Models Resistant to Adversarial Attacks**." In International Conference on Learning Representations, 2018. [[**paper**](https://arxiv.org/pdf/1706.06083)] [[**citations**](https://scholar.google.com/scholar?cites=14165082781627851489&as_sdt=2005&sciodt=0,5&hl=en)]
 
 - [Jeremy Cohen](https://scholar.google.com.sg/citations?user=r493814AAAAJ&hl=en), [Elan Rosenfeld](https://scholar.google.com.sg/citations?user=f0j0K8QAAAAJ&hl=en), and [Zico Kolter](https://scholar.google.com.sg/citations?user=UXh1I6UAAAAJ&hl=en). "**Certified Adversarial Robustness via Randomized Smoothing**." In International Conference on Machine Learning, 2019. [[**paper**](https://arxiv.org/pdf/1902.02918)] [[**talk by ZK**](https://www.youtube.com/watch?v=UHs2mGBH0Fg)] [[**citations**](https://scholar.google.com/scholar?cites=7039519782328477041&as_sdt=2005&sciodt=0,5&hl=en)]
+
+#### Analysis
+
+- [Yair Carmon](https://scholar.google.com/citations?user=kTKmpT0AAAAJ&hl=en), [Aditi Raghunathan](https://scholar.google.com/citations?user=Ch9iRwQAAAAJ&hl=en), [Ludwig Schmidt](https://scholar.google.com/citations?user=SWMKy70AAAAJ&hl=en), [John C. Duchi](https://scholar.google.com/citations?user=i5srt20AAAAJ&hl=en), and [Percy S. Liang](https://scholar.google.com/citations?user=pouyVyUAAAAJ&hl=en). "**Unlabeled data improves adversarial robustness**." In Advances in Neural Information Processing Systems, 2019. [[**paper**](https://papers.nips.cc/paper/9298-unlabeled-data-improves-adversarial-robustness.pdf)] [[**citations**](https://scholar.google.com/scholar?cites=5182550296368877701&as_sdt=2005&sciodt=0,5&hl=en)]
 
 - Overview Talks
 
   - [Ian Goodfellow](https://scholar.google.com.sg/citations?user=iYN86KEAAAAJ&hl=en), "**Adversarial Examples and Adversarial Training**." 2017 [[Lecture](https://www.youtube.com/watch?v=CIfsB_EYsVI)]
   
   - [Zico Kolter](https://scholar.google.com.sg/citations?user=UXh1I6UAAAAJ&hl=en) and [Aleksander Madry](https://scholar.google.com/citations?user=SupjsEUAAAAJ&hl=en), "**Adversarial Robustness - Theory and Practice**." 2018. [[NeurIPS Tutorial](https://www.youtube.com/watch?v=TwP-gKBQyic)]
+  
+  - [Aleksander Madry](https://scholar.google.com/citations?user=SupjsEUAAAAJ&hl=en), "**A New Perspective on Adversarial Perturbations**." 2019. [[**talk**](https://www.youtube.com/watch?v=mUt7w4UoYqM)]
   
 ### Test and Verification
 
