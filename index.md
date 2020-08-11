@@ -113,7 +113,7 @@
 
 ### Inference Phase
 
-- Ian J. Goodfellow, Jonathon Shlens, and Christian Szegedy. "**Explaining and harnessing adversarial examples**." International Conference on Learning Representations, 2015. [[**paper**](https://arxiv.org/pdf/1412.6572)] [[**citations**](https://scholar.google.com.sg/scholar?cites=14908107896544813002&as_sdt=2005&sciodt=0,5&hl=en)] [follow-ups: [**black-box**](https://arxiv.org/pdf/1602.02697), [**transferability**](https://arxiv.org/pdf/1605.07277), [**universal perturbation**](https://arxiv.org/pdf/1610.08401), [**detection**](https://arxiv.org/pdf/1705.07263), [**physical world**](https://arxiv.org/pdf/1707.08945.pdf)] 
+- [Ian Goodfellow](https://scholar.google.com.sg/citations?user=iYN86KEAAAAJ&hl=en), [Jonathon Shlens](https://scholar.google.com.sg/citations?user=x5bC-UwAAAAJ&hl=en), and [Christian Szegedy](https://scholar.google.com.sg/citations?user=3QeF7mAAAAAJ&hl=en). "**Explaining and harnessing adversarial examples**." International Conference on Learning Representations, 2015. [[**paper**](https://arxiv.org/pdf/1412.6572)] [[**citations**](https://scholar.google.com.sg/scholar?cites=14908107896544813002&as_sdt=2005&sciodt=0,5&hl=en)] [follow-ups: [**black-box**](https://arxiv.org/pdf/1602.02697), [**transferability**](https://arxiv.org/pdf/1605.07277), [**universal perturbation**](https://arxiv.org/pdf/1610.08401), [**detection**](https://arxiv.org/pdf/1705.07263), [**physical world**](https://arxiv.org/pdf/1707.08945.pdf)] 
 
 - [Nicholas Carlini](https://scholar.google.com/citations?user=q4qDvAoAAAAJ&hl=en), and [David Wagner](https://scholar.google.com/citations?user=67kghxAAAAAJ&hl=en). "**Towards evaluating the robustness of neural networks**." In IEEE symposium on security and privacy (SP), 2017. [[**paper**](https://www.ieee-security.org/TC/SP2017/papers/518.pdf)] [[**conference talk**](https://www.youtube.com/watch?v=yIXNL88JBWQ)] [[**citations**](https://scholar.google.com/scholar?cites=6732985638826567603&as_sdt=2005&sciodt=0,5&hl=en)]
 
@@ -127,7 +127,7 @@
 
 - Overview Talks
 
-  - [Ian Goodfellow](https://scholar.google.com.sg/citations?user=iYN86KEAAAAJ&hl=en), "**Adversarial Examples and Adversarial Training**." 2017 [[Lecture](https://www.youtube.com/watch?v=CIfsB_EYsVI)]
+  - [Ian Goodfellow](https://scholar.google.com.sg/citations?user=iYN86KEAAAAJ&hl=en), "**Adversarial Examples and Adversarial Training**." 2017. [[Lecture](https://www.youtube.com/watch?v=CIfsB_EYsVI)]
   
   - [Zico Kolter](https://scholar.google.com.sg/citations?user=UXh1I6UAAAAJ&hl=en) and [Aleksander Madry](https://scholar.google.com/citations?user=SupjsEUAAAAJ&hl=en), "**Adversarial Robustness - Theory and Practice**." 2018. [[NeurIPS Tutorial](https://www.youtube.com/watch?v=TwP-gKBQyic)]
   
