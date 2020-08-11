@@ -115,6 +115,8 @@
 
 - [Yair Carmon](https://scholar.google.com/citations?user=kTKmpT0AAAAJ&hl=en), [Aditi Raghunathan](https://scholar.google.com/citations?user=Ch9iRwQAAAAJ&hl=en), [Ludwig Schmidt](https://scholar.google.com/citations?user=SWMKy70AAAAJ&hl=en), [John C. Duchi](https://scholar.google.com/citations?user=i5srt20AAAAJ&hl=en), and [Percy S. Liang](https://scholar.google.com/citations?user=pouyVyUAAAAJ&hl=en). "**Unlabeled data improves adversarial robustness**." In Advances in Neural Information Processing Systems, 2019. [[**paper**](https://papers.nips.cc/paper/9298-unlabeled-data-improves-adversarial-robustness.pdf)] [[**citations**](https://scholar.google.com/scholar?cites=5182550296368877701&as_sdt=2005&sciodt=0,5&hl=en)]
 
+- [Sanghyun Hong](https://scholar.google.com/citations?user=664LW90AAAAJ&hl=en), [Pietro Frigo](https://scholar.google.com/citations?user=WJLYoXcAAAAJ&hl=en), [Yiğitcan Kaya](https://scholar.google.com/citations?user=tPiXuV0AAAAJ&hl=en), [Cristiano Giuffrida](https://scholar.google.com/citations?user=2QmtNQsAAAAJ&hl=en), and [Tudor Dumitraș](https://scholar.google.com/citations?user=f6terwoAAAAJ&hl=en). "**Terminal brain damage: Exposing the graceless degradation in deep neural networks under hardware fault attacks**." In USENIX Security Symposium, 2019. [[**paper**](https://www.usenix.org/system/files/sec19-hong.pdf)] [[**conference talk**](https://www.youtube.com/watch?v=o_CY-cFNfRo)]
+
 - Overview Talks
 
   - [Ian Goodfellow](https://scholar.google.com.sg/citations?user=iYN86KEAAAAJ&hl=en), "**Adversarial Examples and Adversarial Training**." 2017 [[Lecture](https://www.youtube.com/watch?v=CIfsB_EYsVI)]
