@@ -91,3 +91,25 @@
 - [Privacy in Machine Learning and Statistical Inference](https://docs.google.com/document/d/1jsZLEd3ZM-ZWdNAjNRI4_bgPysRUsKQDHvy4VKgtzJ8/edit), [Adam Smith](https://scholar.google.com.sg/citations?user=fkGi-JMAAAAJ&hl=en), Boston University, 2018.
 
 - [The Algorithmic Foundations of Adaptive Data Analysis](https://adaptivedataanalysis.com/), [Adam Smith](https://scholar.google.com.sg/citations?user=fkGi-JMAAAAJ&hl=en) and [Aaron Roth](https://scholar.google.com/citations?user=kLUQrrYAAAAJ&hl=en), UPenn and Boston University, 2017.
+
+
+## Robustness
+
+### Training Phase
+
+### Inference Phase
+
+- [Nicholas Carlini](https://scholar.google.com/citations?user=q4qDvAoAAAAJ&hl=en), and [David Wagner](https://scholar.google.com/citations?user=67kghxAAAAAJ&hl=en). "**Towards evaluating the robustness of neural networks**." In IEEE symposium on security and privacy (SP), 2017. [[**paper**](https://www.ieee-security.org/TC/SP2017/papers/518.pdf)] [[**conference talk**](https://www.youtube.com/watch?v=yIXNL88JBWQ)] [[**citations**](https://scholar.google.com/scholar?cites=6732985638826567603&as_sdt=2005&sciodt=0,5&hl=en)]
+
+- [Aleksander Madry](https://scholar.google.com/citations?user=SupjsEUAAAAJ&hl=en), [Aleksandar Makelov](https://scholar.google.com/citations?user=haO4sKoAAAAJ&hl=en), [Ludwig Schmidt](https://scholar.google.com/citations?user=SWMKy70AAAAJ&hl=en), [Dimitris Tsipras](https://scholar.google.com/citations?user=26eh1jAAAAAJ&hl=en), and [Adrian Vladu](https://scholar.google.com/citations?user=5qh5cc0AAAAJ&hl=en). "**Towards Deep Learning Models Resistant to Adversarial Attacks**." In International Conference on Learning Representations, 2018. [[**paper**](https://arxiv.org/pdf/1706.06083)] [[**citations**](https://scholar.google.com/scholar?cites=14165082781627851489&as_sdt=2005&sciodt=0,5&hl=en)]
+
+- [Jeremy Cohen](https://scholar.google.com.sg/citations?user=r493814AAAAJ&hl=en), [Elan Rosenfeld](https://scholar.google.com.sg/citations?user=f0j0K8QAAAAJ&hl=en), and [Zico Kolter](https://scholar.google.com.sg/citations?user=UXh1I6UAAAAJ&hl=en). "**Certified Adversarial Robustness via Randomized Smoothing**." In International Conference on Machine Learning, 2019. [[**paper**](https://arxiv.org/pdf/1902.02918)] [[**talk by ZK**](https://www.youtube.com/watch?v=UHs2mGBH0Fg)] [[**citations**](https://scholar.google.com/scholar?cites=7039519782328477041&as_sdt=2005&sciodt=0,5&hl=en)]
+
+- Overview Talks
+
+  - [Ian Goodfellow](https://scholar.google.com.sg/citations?user=iYN86KEAAAAJ&hl=en), "**Adversarial Examples and Adversarial Training**." 2017 [[Lecture](https://www.youtube.com/watch?v=CIfsB_EYsVI)]
+  
+  - [Zico Kolter](https://scholar.google.com.sg/citations?user=UXh1I6UAAAAJ&hl=en) and [Aleksander Madry](https://scholar.google.com/citations?user=SupjsEUAAAAJ&hl=en), "**Adversarial Robustness - Theory and Practice**." 2018. [[NeurIPS Tutorial](https://www.youtube.com/watch?v=TwP-gKBQyic)]
+  
+### Test and Verification
+
