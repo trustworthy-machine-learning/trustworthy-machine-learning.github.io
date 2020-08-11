@@ -103,6 +103,8 @@
 
 ### Training Phase
 
+- [Chiyuan Zhang](https://scholar.google.com.sg/citations?user=l_G2vr0AAAAJ&hl=en), [Samy Bengio](https://scholar.google.com.sg/citations?user=Vs-MdPcAAAAJ&hl=en), [Moritz Hardt](https://scholar.google.com.sg/citations?user=adnTgaAAAAAJ&hl=en), [Benjamin Recht](https://scholar.google.com.sg/citations?user=a_dbdxAAAAAJ&hl=en), and [Oriol Vinyals](https://scholar.google.com.sg/citations?user=NkzyCvUAAAAJ&hl=en). "**Understanding deep learning requires rethinking generalization**." In International Conference on Learning Representations, 2017. [[**paper**](https://arxiv.org/pdf/1611.03530)] [[**conference talk**](https://www.youtube.com/watch?v=kCj51pTQPKI)] [[**citations**](https://scholar.google.com.sg/scholar?cites=4613672282544622621&as_sdt=2005&sciodt=0,5&hl=en)]
+
 - [Jacob Steinhardt](https://scholar.google.com/citations?user=LKv32bgAAAAJ&hl=en), [Pang Wei W. Koh](https://scholar.google.com/citations?user=Nn990CkAAAAJ&hl=en), and [Percy S. Liang](https://scholar.google.com/citations?user=pouyVyUAAAAJ&hl=en). "**Certified defenses for data poisoning attacks**." In Advances in neural information processing systems, 2017. [[**paper**](http://papers.nips.cc/paper/6943-certified-defenses-for-data-poisoning-attacks.pdf)] [[**citations**](https://scholar.google.com/scholar?cites=10474944557566613837&as_sdt=2005&sciodt=0,5&hl=en)]
 
 ### Inference Phase
@@ -125,5 +127,5 @@
   
   - [Aleksander Madry](https://scholar.google.com/citations?user=SupjsEUAAAAJ&hl=en), "**A New Perspective on Adversarial Perturbations**." 2019. [[**talk**](https://www.youtube.com/watch?v=mUt7w4UoYqM)]
   
-### Test and Verification
+### Testing and Verification
 
