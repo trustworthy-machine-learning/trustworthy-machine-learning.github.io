@@ -137,3 +137,6 @@
   
 ### Testing and Verification
 
+- [Guy Katz](https://scholar.google.com/citations?user=3nYG5BMAAAAJ&hl=en), [Clark Barrett](https://scholar.google.com/citations?user=BtwmZfQAAAAJ&hl=en), [David L. Dill](https://scholar.google.com/citations?user=uy8T6BYAAAAJ&hl=en), [Kyle Julian](https://scholar.google.com/citations?user=NlnpI7QAAAAJ&hl=en), and [Mykel J. Kochenderfer](https://scholar.google.com/citations?user=cAy9G6oAAAAJ&hl=en). "**Reluplex: An efficient SMT solver for verifying deep neural networks**." In International Conference on Computer Aided Verification, 2017. [[**paper**](https://arxiv.org/pdf/1610.06940)] [[**conference talk**](https://www.youtube.com/watch?v=KiKS_zaPb64)] [[**citations**](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16898270665626409672)]
+
+
