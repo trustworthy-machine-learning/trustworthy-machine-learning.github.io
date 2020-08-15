@@ -172,7 +172,7 @@
 
 ### Robustness
 
-- [Avrim Blum](https://scholar.google.com.sg/citations?user=Jlv4MR4AAAAJ&hl=en), and [Kevin Stangl](https://scholar.google.com.sg/citations?user=76AAneMAAAAJ&hl=en). "**Recovering from biased data: Can fairness constraints improve accuracy?**." arXiv preprint arXiv:1912.01094, 2019. [[**paper**](https://arxiv.org/pdf/1912.01094)]  
+- [Avrim Blum](https://scholar.google.com.sg/citations?user=Jlv4MR4AAAAJ&hl=en), and [Kevin Stangl](https://scholar.google.com.sg/citations?user=76AAneMAAAAJ&hl=en). "**Recovering from biased data: Can fairness constraints improve accuracy?**." In 1st Symposium on Foundations of Responsible Computing (FORC), 2020. [[**paper**](https://arxiv.org/pdf/1912.01094)]  [[**conference talk**](https://www.youtube.com/watch?v=O0qfqZ7HHuY)]
 
 - [Heinrich Jiang](https://scholar.google.com.sg/citations?user=RiDdF2YAAAAJ&hl=en), and [Ofir Nachum](https://scholar.google.com.sg/citations?user=C-ZlBWMAAAAJ&hl=en). "**Identifying and correcting label bias in machine learning**." In International Conference on Artificial Intelligence and Statistics, 2020. [[**paper**](http://proceedings.mlr.press/v108/jiang20a/jiang20a.pdf)]
 
