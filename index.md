@@ -168,7 +168,7 @@
 
 - Overview Talks
 
-  - [Solon Barocas](https://scholar.google.com/citations?user=rEjgIskAAAAJ&hl=en) and [Moritz Hardt](https://scholar.google.com/citations?user=adnTgaAAAAAJ&hl=en), "**Fairness in machine learning**." [[**Tutorial at NIPS](https://vimeo.com/248490141), 2017.
+  - [Solon Barocas](https://scholar.google.com/citations?user=rEjgIskAAAAJ&hl=en) and [Moritz Hardt](https://scholar.google.com/citations?user=adnTgaAAAAAJ&hl=en), "**Fairness in machine learning**." [[**Tutorial at NIPS**](https://vimeo.com/248490141)], 2017.
   
   - [Arvind Narayanan](https://scholar.google.com/citations?user=0Bi5CMgAAAAJ&hl=en), "**21 fairness definitions and their politics**." 2018. [[**Tutorial**](https://www.youtube.com/watch?v=jIXIuYdnyyk)]
   
