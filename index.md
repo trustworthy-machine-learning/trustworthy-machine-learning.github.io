@@ -140,3 +140,19 @@
 - [Guy Katz](https://scholar.google.com/citations?user=3nYG5BMAAAAJ&hl=en), [Clark Barrett](https://scholar.google.com/citations?user=BtwmZfQAAAAJ&hl=en), [David L. Dill](https://scholar.google.com/citations?user=uy8T6BYAAAAJ&hl=en), [Kyle Julian](https://scholar.google.com/citations?user=NlnpI7QAAAAJ&hl=en), and [Mykel J. Kochenderfer](https://scholar.google.com/citations?user=cAy9G6oAAAAJ&hl=en). "**Reluplex: An efficient SMT solver for verifying deep neural networks**." In International Conference on Computer Aided Verification, 2017. [[**paper**](https://arxiv.org/pdf/1610.06940)] [[**conference talk**](https://www.youtube.com/watch?v=KiKS_zaPb64)] [[**citations**](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16898270665626409672)]
 
 - [Gagandeep Singh](https://scholar.google.com/citations?user=m4b2ruEAAAAJ&hl=en), [Timon Gehr](https://scholar.google.com/citations?user=HcL76tsAAAAJ&hl=en), [Markus Püschel](https://scholar.google.com/citations?user=az9ZryAAAAAJ&hl=en), and [Martin Vechev](https://scholar.google.com/citations?user=aZ1Rh50AAAAJ&hl=en). "**An abstract domain for certifying neural networks**." Proceedings of the ACM on Programming Languages (POPL), 2019. [[**paper**](https://files.sri.inf.ethz.ch/website/papers/DeepPoly.pdf)] [[**conference talk**](https://www.youtube.com/watch?v=5Tkc1kgCXRI)] [[**citations**](https://scholar.google.com/scholar?cites=17913918431933235756&as_sdt=2005&sciodt=0,5&hl=en)]
+
+
+## Algorithmic Fairness
+
+### Measures 
+
+- [Cynthia Dwork](https://scholar.google.com/citations?user=y2H5xmkAAAAJ&hl=en), [Moritz Hardt](https://scholar.google.com/citations?user=adnTgaAAAAAJ&hl=en), Toniann Pitassi, [Omer Reingold](https://scholar.google.com/citations?user=TD9RhcgAAAAJ&hl=en), and [Richard Zemel](https://scholar.google.com/citations?user=iBeDoRAAAAAJ&hl=en). "**Fairness through awareness**." In Proceedings of the 3rd innovations in theoretical computer science conference, 2012. [[**paper**](https://arxiv.org/pdf/1104.3913)] [[**citations**](https://scholar.google.com/scholar?cites=15887350027958465759&as_sdt=2005&sciodt=0,5&hl=en)]
+
+- [Moritz Hardt](https://scholar.google.com/citations?user=adnTgaAAAAAJ&hl=en), [Eric Price](https://scholar.google.com/citations?user=UE6z_m8AAAAJ&hl=en), and [Nati Srebro](https://scholar.google.com/citations?user=ZnT-QpMAAAAJ&hl=en). "**Equality of opportunity in supervised learning**." In Advances in neural information processing systems, 2016. [[**paper**](http://papers.nips.cc/paper/6374-equality-of-opportunity-in-supervised-learning.pdf)] [[**citations**](https://scholar.google.com/scholar?cites=2062984936384963570&as_sdt=2005&sciodt=0,5&hl=en)]
+
+- [Matt J. Kusner](https://scholar.google.com/citations?user=57KRSu8AAAAJ&hl=en), [Joshua Loftus](https://scholar.google.com/citations?user=SIbr3XUAAAAJ&hl=en), [Chris Russell](https://scholar.google.com/citations?user=RM2sHhYAAAAJ&hl=en), and [Ricardo Silva](https://scholar.google.com/citations?user=I-ANa0QAAAAJ&hl=en). "**Counterfactual fairness**." In Advances in neural information processing systems, 2017. [[**paper**](http://papers.nips.cc/paper/6995-counterfactual-fairness.pdf)] [[**talk by MK**](https://www.youtube.com/watch?v=ZfuOw02U7hs)] [[**citations**](https://scholar.google.com/scholar?cites=13115459093902017069&as_sdt=2005&sciodt=0,5&hl=en)]
+
+### Mechanisms
+
+### Tradeoffs
+
