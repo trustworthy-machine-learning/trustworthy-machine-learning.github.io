@@ -158,7 +158,7 @@
 
 - Michael Feldman, [Sorelle A. Friedler](https://scholar.google.com/citations?user=XDHr1VIAAAAJ&hl=en), [John Moeller](https://scholar.google.com/citations?user=AUHBWKIAAAAJ&hl=en), [Carlos Scheidegger](https://scholar.google.com.sg/citations?user=8uHMJjsAAAAJ&hl=en), and [Suresh Venkatasubramanian](https://scholar.google.com.sg/citations?user=Z03FLwkAAAAJ&hl=en). "**Certifying and removing disparate impact**." In proceedings of the 21th ACM SIGKDD international conference on knowledge discovery and data mining, 2015. [[**paper**](https://arxiv.org/pdf/1412.3756)] [[**conference talk**](https://www.youtube.com/watch?v=4ds9fBDtMmU)] [[**citations**](https://scholar.google.com.sg/scholar?oi=bibs&hl=en&cites=9404979763053543288&as_sdt=5)]
 
-- [Muhammad Bilal Zafar](https://scholar.google.com.sg/citations?user=keWdp0AAAAAJ&hl=en), [Isabel Valera](https://scholar.google.com.sg/citations?user=cpdQqpsAAAAJ&hl=en), [Manuel Gomez Rogriguez](https://scholar.google.com.sg/citations?user=UcuXmuwAAAAJ&hl=en), and [Krishna P. Gummadi](https://scholar.google.com.sg/citations?user=Bz3APTsAAAAJ&hl=en). "**Fairness constraints: Mechanisms for fair classification**." In Artificial Intelligence and Statistics, 2017. [[**paper**](http://proceedings.mlr.press/v54/zafar17a/zafar17a.pdf)] 
+- [Muhammad Bilal Zafar](https://scholar.google.com.sg/citations?user=keWdp0AAAAAJ&hl=en), [Isabel Valera](https://scholar.google.com.sg/citations?user=cpdQqpsAAAAJ&hl=en), [Manuel Gomez Rogriguez](https://scholar.google.com.sg/citations?user=UcuXmuwAAAAJ&hl=en), and [Krishna P. Gummadi](https://scholar.google.com.sg/citations?user=Bz3APTsAAAAJ&hl=en). "**Fairness constraints: Mechanisms for fair classification**." In Artificial Intelligence and Statistics, 2017. [[**paper**](http://proceedings.mlr.press/v54/zafar17a/zafar17a.pdf)] [[**citations**](https://scholar.google.com/scholar?cites=13152667258933603266&as_sdt=2005&sciodt=0,5&hl=en)]
 
-### Tradeoffs
+### Analysis
 
