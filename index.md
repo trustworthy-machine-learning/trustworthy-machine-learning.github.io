@@ -156,15 +156,7 @@
 
   - [Alexandra Chouldechova](https://scholar.google.com.sg/citations?user=uoDW9hkAAAAJ&hl=en), and [Aaron Roth](https://scholar.google.com.sg/citations?user=kLUQrrYAAAAJ&hl=en). "**The frontiers of fairness in machine learning**." arXiv preprint arXiv:1810.08810, 2018. [[**paper**](https://arxiv.org/pdf/1810.08810)]
   
-  - [Solon Barocas](https://scholar.google.com/citations?user=rEjgIskAAAAJ&hl=en), [Moritz Hardt](https://scholar.google.com/citations?user=adnTgaAAAAAJ&hl=en), and [Arvind Narayanan](https://scholar.google.com/citations?user=0Bi5CMgAAAAJ&hl=en). "**Fairness and machine learning: Limitations and Opportunities**." Work in progress book, 2018. [[**book**](https://fairmlbook.org/pdf/fairmlbook.pdf)]
-  
-### Measures 
-
-- [Cynthia Dwork](https://scholar.google.com/citations?user=y2H5xmkAAAAJ&hl=en), [Moritz Hardt](https://scholar.google.com/citations?user=adnTgaAAAAAJ&hl=en), Toniann Pitassi, [Omer Reingold](https://scholar.google.com/citations?user=TD9RhcgAAAAJ&hl=en), and [Richard Zemel](https://scholar.google.com/citations?user=iBeDoRAAAAAJ&hl=en). "**Fairness through awareness**." In Proceedings of the 3rd innovations in theoretical computer science conference, 2012. [[**paper**](https://arxiv.org/pdf/1104.3913)] [[**citations**](https://scholar.google.com/scholar?cites=15887350027958465759&as_sdt=2005&sciodt=0,5&hl=en)]
-
-- [Moritz Hardt](https://scholar.google.com/citations?user=adnTgaAAAAAJ&hl=en), [Eric Price](https://scholar.google.com/citations?user=UE6z_m8AAAAJ&hl=en), and [Nati Srebro](https://scholar.google.com/citations?user=ZnT-QpMAAAAJ&hl=en). "**Equality of opportunity in supervised learning**." In Advances in neural information processing systems, 2016. [[**paper**](http://papers.nips.cc/paper/6374-equality-of-opportunity-in-supervised-learning.pdf)] [[**citations**](https://scholar.google.com/scholar?cites=2062984936384963570&as_sdt=2005&sciodt=0,5&hl=en)]
-
-- [Matt J. Kusner](https://scholar.google.com/citations?user=57KRSu8AAAAJ&hl=en), [Joshua Loftus](https://scholar.google.com/citations?user=SIbr3XUAAAAJ&hl=en), [Chris Russell](https://scholar.google.com/citations?user=RM2sHhYAAAAJ&hl=en), and [Ricardo Silva](https://scholar.google.com/citations?user=I-ANa0QAAAAJ&hl=en). "**Counterfactual fairness**." In Advances in neural information processing systems, 2017. [[**paper**](http://papers.nips.cc/paper/6995-counterfactual-fairness.pdf)] [[**talk by MK**](https://www.youtube.com/watch?v=ZfuOw02U7hs)] [[**citations**](https://scholar.google.com/scholar?cites=13115459093902017069&as_sdt=2005&sciodt=0,5&hl=en)]
+  - [Solon Barocas](https://scholar.google.com/citations?user=rEjgIskAAAAJ&hl=en), [Moritz Hardt](https://scholar.google.com/citations?user=adnTgaAAAAAJ&hl=en), and [Arvind Narayanan](https://scholar.google.com/citations?user=0Bi5CMgAAAAJ&hl=en). "**Fairness and machine learning: Limitations and Opportunities**." Work in progress book, 2019. [[**book**](https://fairmlbook.org/pdf/fairmlbook.pdf)]
 
 - Overview Talks
 
@@ -175,6 +167,14 @@
   - [Cynthia Dwork](https://scholar.google.com.sg/citations?user=y2H5xmkAAAAJ&hl=en), "**The Emerging Theory of Algorithmic Fairness**." 2018. [[**Talk**](https://www.youtube.com/watch?v=g-z84_nRQhw)]
   
   - [Moritz Hardt](https://scholar.google.com/citations?user=adnTgaAAAAAJ&hl=en), "**Fairness**." [[**Part I**](https://www.youtube.com/watch?v=Igq_S_7IfOU)], [[**Part II**](https://www.youtube.com/watch?v=9oNVFQ9llPc)]
+  
+### Measures 
+
+- [Cynthia Dwork](https://scholar.google.com/citations?user=y2H5xmkAAAAJ&hl=en), [Moritz Hardt](https://scholar.google.com/citations?user=adnTgaAAAAAJ&hl=en), Toniann Pitassi, [Omer Reingold](https://scholar.google.com/citations?user=TD9RhcgAAAAJ&hl=en), and [Richard Zemel](https://scholar.google.com/citations?user=iBeDoRAAAAAJ&hl=en). "**Fairness through awareness**." In Proceedings of the 3rd innovations in theoretical computer science conference, 2012. [[**paper**](https://arxiv.org/pdf/1104.3913)] [[**citations**](https://scholar.google.com/scholar?cites=15887350027958465759&as_sdt=2005&sciodt=0,5&hl=en)]
+
+- [Moritz Hardt](https://scholar.google.com/citations?user=adnTgaAAAAAJ&hl=en), [Eric Price](https://scholar.google.com/citations?user=UE6z_m8AAAAJ&hl=en), and [Nati Srebro](https://scholar.google.com/citations?user=ZnT-QpMAAAAJ&hl=en). "**Equality of opportunity in supervised learning**." In Advances in neural information processing systems, 2016. [[**paper**](http://papers.nips.cc/paper/6374-equality-of-opportunity-in-supervised-learning.pdf)] [[**citations**](https://scholar.google.com/scholar?cites=2062984936384963570&as_sdt=2005&sciodt=0,5&hl=en)]
+
+- [Matt J. Kusner](https://scholar.google.com/citations?user=57KRSu8AAAAJ&hl=en), [Joshua Loftus](https://scholar.google.com/citations?user=SIbr3XUAAAAJ&hl=en), [Chris Russell](https://scholar.google.com/citations?user=RM2sHhYAAAAJ&hl=en), and [Ricardo Silva](https://scholar.google.com/citations?user=I-ANa0QAAAAJ&hl=en). "**Counterfactual fairness**." In Advances in neural information processing systems, 2017. [[**paper**](http://papers.nips.cc/paper/6995-counterfactual-fairness.pdf)] [[**talk by MK**](https://www.youtube.com/watch?v=ZfuOw02U7hs)] [[**citations**](https://scholar.google.com/scholar?cites=13115459093902017069&as_sdt=2005&sciodt=0,5&hl=en)]
 
 ### Mechanisms
 
