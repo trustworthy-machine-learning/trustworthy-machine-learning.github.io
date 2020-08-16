@@ -221,13 +221,21 @@
 
 - [Finale Doshi-Velez](https://scholar.google.com.sg/citations?user=hwQtFB0AAAAJ&hl=en), and [Been Kim](https://scholar.google.com.sg/citations?user=aGXkhcwAAAAJ&hl=en). "**Towards a rigorous science of interpretable machine learning**." arXiv preprint arXiv:1702.08608, 2017. [[**paper**](https://arxiv.org/pdf/1702.08608)] [[**talk by FDV**](https://www.youtube.com/watch?v=MMxZlr_L6YE)]
 
+- Overview talks
+
+  - [Cynthia Rudin](https://scholar.google.com/citations?user=mezKJyoAAAAJ&hl=en). "**Do Simpler Models Exist and How Can We Find Them?**." [[**keynote talk at KDD**](https://www.youtube.com/watch?v=wL4X4lG20sM)]
+  
+  - [Rich Caruana](https://scholar.google.com/citations?user=B2U8EUwAAAAJ&hl=en). "**Friends Don’t Let Friends Deploy Black-Box Models: Intelligibility in Machine Learning for Bias Detection and Correction**." [[**talk**](https://www.youtube.com/watch?v=TPY16CSIrwY)]
+
 ### Model Explanation
 
 - [Sandra Wachter](https://scholar.google.com.sg/citations?user=ZXBJVqYAAAAJ&hl=en), [Brent Mittelstadt](https://scholar.google.com.sg/citations?user=tP685zYAAAAJ&hl=en), and [Chris Russell](https://scholar.google.com.sg/citations?user=RM2sHhYAAAAJ&hl=en). "**Counterfactual explanations without opening the black box: Automated decisions and the GDPR**." Harvard Journal of Law & Technology, 2017. [[**paper**](https://jolt.law.harvard.edu/assets/articlePDFs/v31/Counterfactual-Explanations-without-Opening-the-Black-Box-Sandra-Wachter-et-al.pdf)] [[**citations**](https://scholar.google.com.sg/scholar?cites=5948704720199512282&as_sdt=2005&sciodt=0,5&hl=en)]
 
-- [Marco Tulio Ribeiro](https://scholar.google.com.sg/citations?user=rmsIyGMAAAAJ&hl=en), [Sameer Singh](https://scholar.google.com.sg/citations?user=-hGZC54AAAAJ&hl=en), and [Carlos Guestrin](https://scholar.google.com.sg/citations?user=DpLFv4gAAAAJ&hl=en). "**"Why should I trust you?" Explaining the predictions of any classifier**." In Proceedings of the 22nd ACM SIGKDD international conference on knowledge discovery and data mining, 2016. [[**paper**](https://arxiv.org/pdf/1602.04938)] [[**conference talk**](https://www.youtube.com/watch?v=KP7-JtFMLo4)] [[**citations**](https://scholar.google.com.sg/scholar?cites=16724302923321127943&as_sdt=2005&sciodt=0,5&hl=en)] 
+- [Marco Tulio Ribeiro](https://scholar.google.com.sg/citations?user=rmsIyGMAAAAJ&hl=en), [Sameer Singh](https://scholar.google.com.sg/citations?user=-hGZC54AAAAJ&hl=en), and [Carlos Guestrin](https://scholar.google.com.sg/citations?user=DpLFv4gAAAAJ&hl=en). "**"Why should I trust you?" Explaining the predictions of any classifier**." In Proceedings of the 22nd ACM SIGKDD international conference on knowledge discovery and data mining, 2016. [[**paper**](https://arxiv.org/pdf/1602.04938)] [[**conference talk**](https://www.youtube.com/watch?v=KP7-JtFMLo4)] [[**talk by SS**](https://www.youtube.com/watch?v=LAm4QmVaf0E)] [[**citations**](https://scholar.google.com.sg/scholar?cites=16724302923321127943&as_sdt=2005&sciodt=0,5&hl=en)] 
 
 - [Scott M. Lundberg](https://scholar.google.com/citations?user=ESRugcEAAAAJ&hl=en), and [Su-In Lee](https://scholar.google.com/citations?user=3ifikJ0AAAAJ&hl=en). "**A unified approach to interpreting model predictions**." In Advances in neural information processing systems, 2017. [[**paper**](http://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions.pdf)] [[**citations**](https://scholar.google.com/scholar?cites=6828961408019591083&as_sdt=2005&sciodt=0,5&hl=en)]
+
+- [Anupam Datta](https://scholar.google.com/citations?user=oK3QM1wAAAAJ&hl=en), [Shayak Sen](https://scholar.google.com/citations?user=vdiw0xMAAAAJ&hl=en), and [Yair Zick](https://scholar.google.com/citations?user=m0PW6DQAAAAJ&hl=en). "**Algorithmic transparency via quantitative input influence: Theory and experiments with learning systems**." In IEEE symposium on security and privacy (SP), 2016. [[**paper**](https://www.andrew.cmu.edu/user/danupam/datta-sen-zick-oakland16.pdf)] [[**talk by AD**](https://youtu.be/Q6UuncHgUaA?t=1623)] [[**citations**](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14953509643678714899&as_sdt=5)]
 
 ### Interpretability
 
@@ -239,13 +247,17 @@
 
 - [Amirata Ghorbani](https://scholar.google.com.sg/citations?user=BtgIFycAAAAJ&hl=en), [Abubakar Abid](https://scholar.google.com.sg/citations?user=8slGl3oAAAAJ&hl=en), and [James Zou](https://scholar.google.com.sg/citations?user=23ZXZvEAAAAJ&hl=en). "**Interpretation of neural networks is fragile**." In Proceedings of the AAAI Conference on Artificial Intelligence, 2019. [[**paper**](https://arxiv.org/pdf/1710.10547)] [[**conference talk**](https://www.youtube.com/watch?v=8KyZCmBTPNw)] [[**citations**](https://scholar.google.com/scholar?cites=8913730552362106675&as_sdt=2005&sciodt=0,5&hl=en)]
 
-- [Dylan Slack](https://scholar.google.com/citations?user=pyhz-gUAAAAJ&hl=en), Sophie Hilgard, Emily Jia, [Sameer Singh](https://scholar.google.com/citations?user=-hGZC54AAAAJ&hl=en), and [Himabindu Lakkaraju](https://scholar.google.com/citations?user=oWid5PQAAAAJ&hl=en). "**Fooling lime and shap: Adversarial attacks on post hoc explanation methods**." In Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society, 2020. [[**paper**](https://arxiv.org/pdf/1911.02508)] [[**citations**](https://scholar.google.com/scholar?cites=8884301126625541721&as_sdt=2005&sciodt=0,5&hl=en)]
+- [Dylan Slack](https://scholar.google.com/citations?user=pyhz-gUAAAAJ&hl=en), Sophie Hilgard, Emily Jia, [Sameer Singh](https://scholar.google.com/citations?user=-hGZC54AAAAJ&hl=en), and [Himabindu Lakkaraju](https://scholar.google.com/citations?user=oWid5PQAAAAJ&hl=en). "**Fooling lime and shap: Adversarial attacks on post hoc explanation methods**." In Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society, 2020. [[**paper**](https://arxiv.org/pdf/1911.02508)] [[**talk by HL**](https://www.youtube.com/watch?v=4HyJIOenIlI)] [[**citations**](https://scholar.google.com/scholar?cites=8884301126625541721&as_sdt=2005&sciodt=0,5&hl=en)]
 
 ### Privacy
 
 - [Reza Shokri](https://scholar.google.com/citations?user=udlZXXcAAAAJ&hl=en), [Martin Strobel](https://scholar.google.com/citations?user=6p4Fg_wAAAAJ&hl=en), and [Yair Zick](https://scholar.google.com/citations?user=m0PW6DQAAAAJ&hl=en). "**On the Privacy Risks of Model Explanations**." arXiv preprint arXiv:1907.00164, 2019. [[**paper**](https://arxiv.org/pdf/1907.00164)] [[**citations**](https://scholar.google.com/scholar?cites=1863276377879092856&as_sdt=2005&sciodt=0,5&hl=en)]
 
 - [Neel Patel](https://scholar.google.com/citations?user=zN081ZcAAAAJ&hl=en), [Reza Shokri](https://scholar.google.com/citations?user=udlZXXcAAAAJ&hl=en), and [Yair Zick](https://scholar.google.com/citations?user=m0PW6DQAAAAJ&hl=en). "**Model Explanations with Differential Privacy**." arXiv preprint arXiv:2006.09129, 2020. [[**paper**](https://arxiv.org/pdf/2006.09129)]
+
+### Analysis 
+
+- [Jon Kleinberg](https://scholar.google.com.sg/citations?user=VX7d5EQAAAAJ&hl=en), and [Sendhil Mullainathan](https://scholar.google.com/citations?user=oExfyEkAAAAJ&hl=en). "**Simplicity creates inequity: implications for fairness, stereotypes, and interpretability**." In Proceedings of the 2019 ACM Conference on Economics and Computation, 2019. [[**paper**](https://arxiv.org/pdf/1809.04578)] [[**conference talk**](https://www.youtube.com/watch?v=LsracoT6zvI)] [[**citations**](https://scholar.google.com/scholar?client=firefox-b-d&um=1&ie=UTF-8&lr&cites=4367467261022093783)]
 
 ### Law and Policy
 
