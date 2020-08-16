@@ -227,11 +227,25 @@
 
 - [Marco Tulio Ribeiro](https://scholar.google.com.sg/citations?user=rmsIyGMAAAAJ&hl=en), [Sameer Singh](https://scholar.google.com.sg/citations?user=-hGZC54AAAAJ&hl=en), and [Carlos Guestrin](https://scholar.google.com.sg/citations?user=DpLFv4gAAAAJ&hl=en). "**"Why should I trust you?" Explaining the predictions of any classifier**." In Proceedings of the 22nd ACM SIGKDD international conference on knowledge discovery and data mining, 2016. [[**paper**](https://arxiv.org/pdf/1602.04938)] [[**conference talk**](https://www.youtube.com/watch?v=KP7-JtFMLo4)] [[**citations**](https://scholar.google.com.sg/scholar?cites=16724302923321127943&as_sdt=2005&sciodt=0,5&hl=en)] 
 
+- [Scott M. Lundberg](https://scholar.google.com/citations?user=ESRugcEAAAAJ&hl=en), and [Su-In Lee](https://scholar.google.com/citations?user=3ifikJ0AAAAJ&hl=en). "**A unified approach to interpreting model predictions**." In Advances in neural information processing systems, 2017. [[**paper**](http://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions.pdf)] [[**citations**](https://scholar.google.com/scholar?cites=6828961408019591083&as_sdt=2005&sciodt=0,5&hl=en)]
+
+### Interpretability
+
+- [Cynthia Rudin](https://scholar.google.com/citations?user=mezKJyoAAAAJ&hl=en). "**Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead**." Nature Machine Intelligence 1, 2019. [[**paper**](https://arxiv.org/pdf/1811.10154)]
 
 ### Robustness
 
-- [Julius Adebayo](https://scholar.google.com.sg/citations?user=y1bnRg4AAAAJ&hl=en), [Justin Gilmer](https://scholar.google.com.sg/citations?user=Ml_vQ8MAAAAJ&hl=en), [Michael Muelly](https://scholar.google.com.sg/citations?user=F2SAhnQAAAAJ&hl=en), [Ian Goodfellow](https://scholar.google.com.sg/citations?user=iYN86KEAAAAJ&hl=en), [Moritz Hardt](https://scholar.google.com.sg/citations?user=adnTgaAAAAAJ&hl=en), and [Been Kim](https://scholar.google.com.sg/citations?user=aGXkhcwAAAAJ&hl=en). "**Sanity checks for saliency maps**." In Advances in Neural Information Processing Systems, 2018. [[**paper**](http://papers.neurips.cc/paper/8160-sanity-checks-for-saliency-maps.pdf)]
+- [Julius Adebayo](https://scholar.google.com.sg/citations?user=y1bnRg4AAAAJ&hl=en), [Justin Gilmer](https://scholar.google.com.sg/citations?user=Ml_vQ8MAAAAJ&hl=en), [Michael Muelly](https://scholar.google.com.sg/citations?user=F2SAhnQAAAAJ&hl=en), [Ian Goodfellow](https://scholar.google.com.sg/citations?user=iYN86KEAAAAJ&hl=en), [Moritz Hardt](https://scholar.google.com.sg/citations?user=adnTgaAAAAAJ&hl=en), and [Been Kim](https://scholar.google.com.sg/citations?user=aGXkhcwAAAAJ&hl=en). "**Sanity checks for saliency maps**." In Advances in Neural Information Processing Systems, 2018. [[**paper**](http://papers.neurips.cc/paper/8160-sanity-checks-for-saliency-maps.pdf)] [[**conference talk**](https://www.facebook.com/nipsfoundation/videos/515859272265612/)](starts at 53') [[**citations**](https://scholar.google.com.sg/scholar?cites=8767887416569707674&as_sdt=2005&sciodt=0,5&hl=en)]
 
+- [Amirata Ghorbani](https://scholar.google.com.sg/citations?user=BtgIFycAAAAJ&hl=en), [Abubakar Abid](https://scholar.google.com.sg/citations?user=8slGl3oAAAAJ&hl=en), and [James Zou](https://scholar.google.com.sg/citations?user=23ZXZvEAAAAJ&hl=en). "**Interpretation of neural networks is fragile**." In Proceedings of the AAAI Conference on Artificial Intelligence, 2019. [[**paper**](https://arxiv.org/pdf/1710.10547)] [[**conference talk**](https://www.youtube.com/watch?v=8KyZCmBTPNw)] [[**citations**](https://scholar.google.com/scholar?cites=8913730552362106675&as_sdt=2005&sciodt=0,5&hl=en)]
+
+- [Dylan Slack](https://scholar.google.com/citations?user=pyhz-gUAAAAJ&hl=en), Sophie Hilgard, Emily Jia, [Sameer Singh](https://scholar.google.com/citations?user=-hGZC54AAAAJ&hl=en), and [Himabindu Lakkaraju](https://scholar.google.com/citations?user=oWid5PQAAAAJ&hl=en). "**Fooling lime and shap: Adversarial attacks on post hoc explanation methods**." In Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society, 2020. [[**paper**](https://arxiv.org/pdf/1911.02508)] [[**citations**](https://scholar.google.com/scholar?cites=8884301126625541721&as_sdt=2005&sciodt=0,5&hl=en)]
+
+### Privacy
+
+- [Reza Shokri](https://scholar.google.com/citations?user=udlZXXcAAAAJ&hl=en), [Martin Strobel](https://scholar.google.com/citations?user=6p4Fg_wAAAAJ&hl=en), and [Yair Zick](https://scholar.google.com/citations?user=m0PW6DQAAAAJ&hl=en). "**On the Privacy Risks of Model Explanations**." arXiv preprint arXiv:1907.00164, 2019. [[**paper**](https://arxiv.org/pdf/1907.00164)] [[**citations**](https://scholar.google.com/scholar?cites=1863276377879092856&as_sdt=2005&sciodt=0,5&hl=en)]
+
+- [Neel Patel](https://scholar.google.com/citations?user=zN081ZcAAAAJ&hl=en), [Reza Shokri](https://scholar.google.com/citations?user=udlZXXcAAAAJ&hl=en), and [Yair Zick](https://scholar.google.com/citations?user=m0PW6DQAAAAJ&hl=en). "**Model Explanations with Differential Privacy**." arXiv preprint arXiv:2006.09129, 2020. [[**paper**](https://arxiv.org/pdf/2006.09129)]
 
 ### Law and Policy
 
