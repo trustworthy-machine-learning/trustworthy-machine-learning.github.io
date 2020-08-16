@@ -12,6 +12,8 @@
 
 - [Milad Nasr](https://scholar.google.com/citations?user=k6-nvDAAAAAJ&hl=en), [Reza Shokri](https://scholar.google.com/citations?user=udlZXXcAAAAJ&hl=en), and [Amir Houmansadr](https://scholar.google.com/citations?user=cTTFHNwAAAAJ&hl=en). "**Comprehensive privacy analysis of deep learning: Passive and active white-box inference attacks against centralized and federated learning**." In IEEE Symposium on Security and Privacy (SP), 2019. [[**paper**](https://www.comp.nus.edu.sg/~reza/files/Shokri-SP2019.pdf)] [[**conference talk**](https://www.youtube.com/watch?v=lzJY4BjCxTc)] [[**citations**](https://scholar.google.com.sg/scholar?oi=bibs&hl=en&cites=2009427570736671135,3616975283750298005,4006729549039865027)]
 
+- [Congzheng Song](https://scholar.google.com/citations?user=lkPKfjgAAAAJ&hl=en), and [Ananth Raghunathan](https://scholar.google.com/citations?user=KQNjz6cAAAAJ&hl=en). "**Information Leakage in Embedding Models**." In Proceedings of the ACM SIGSAC Conference on Computer and Communications Security, 2020. [[**paper**](https://arxiv.org/pdf/2004.00053)]
+
 #### Memorization 
 
 - [Nicholas Carlini](https://scholar.google.com/citations?user=q4qDvAoAAAAJ&hl=en), Chang Liu, [Úlfar Erlingsson](https://scholar.google.com/citations?user=cX2HlhQAAAAJ&hl=en), Jernej Kos, and [Dawn Song](https://scholar.google.com/citations?user=84WzBlYAAAAJ&hl=en). "**The secret sharer: Evaluating and testing unintended memorization in neural networks**." In USENIX Security Symposium, 2019. [[**paper**](https://www.usenix.org/system/files/sec19-carlini.pdf)]  [[**conference talk**](https://www.youtube.com/watch?v=U9XbFtCWedE)] [[**citations**](https://scholar.google.com/scholar?cites=14719809661253001007&as_sdt=2005&sciodt=0,5&hl=en)]
@@ -209,4 +211,13 @@
 - [Fairness in Machine Learning](https://fairmlclass.github.io/), [Moritz Hardt](https://scholar.google.com.sg/citations?user=adnTgaAAAAAJ&hl=en), UC Berkeley, 2017.
 
 - [Fairness in Machine Learning](https://docs.google.com/document/d/1XnbJXELA0L3CX41MxySdPsZ-HNECxPtAw4-kZRc7OPI/edit), [Arvind Narayanan](https://scholar.google.com/citations?user=0Bi5CMgAAAAJ&hl=en), Princeton, 2017.
+
+
+## Algorithmic Transparency
+
+- [Finale Doshi-Velez](https://scholar.google.com.sg/citations?user=hwQtFB0AAAAJ&hl=en), and [Been Kim](https://scholar.google.com.sg/citations?user=aGXkhcwAAAAJ&hl=en). "**Towards a rigorous science of interpretable machine learning**." arXiv preprint arXiv:1702.08608, 2017. [[**paper**](https://arxiv.org/pdf/1702.08608)] [[**talk by FDV**](https://www.youtube.com/watch?v=MMxZlr_L6YE)]
+ 
+### Law and Policy
+
+- [Andrew D. Selbst](https://scholar.google.com.sg/citations?user=stza7JMAAAAJ&hl=en), and [Solon Barocas](https://scholar.google.com.sg/citations?user=rEjgIskAAAAJ&hl=en). "**The Intuitive Appeal of Explainable Machines**." Fordham law review 87, no. 3, 2018. [[**paper**](http://fordhamlawreview.org/wp-content/uploads/2018/11/11_Selbst-Barocas-1085-1139-updated-12-4.pdf)] 
 
