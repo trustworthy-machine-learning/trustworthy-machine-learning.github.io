@@ -112,6 +112,8 @@
 - Background
 
   - [Ilias Diakonikolas](https://scholar.google.com/citations?user=Vb3FLmkAAAAJ&hl=en), and [Daniel M. Kane](https://scholar.google.com/citations?user=DulpV-cAAAAJ&hl=en). "**Recent advances in algorithmic high-dimensional robust statistics**." arXiv preprint arXiv:1911.05911, 2019. [[**paper**](https://arxiv.org/pdf/1911.05911)]
+  
+  - [Ankur Moitra](https://scholar.google.com/citations?hl=en&user=umFQktIAAAAJ), "**Robustness Meets Algorithms**." 2019. [[**Talk**](https://www.youtube.com/watch?v=qxZQml1897Q)] 
 
 - [Chiyuan Zhang](https://scholar.google.com.sg/citations?user=l_G2vr0AAAAJ&hl=en), [Samy Bengio](https://scholar.google.com.sg/citations?user=Vs-MdPcAAAAJ&hl=en), [Moritz Hardt](https://scholar.google.com.sg/citations?user=adnTgaAAAAAJ&hl=en), [Benjamin Recht](https://scholar.google.com.sg/citations?user=a_dbdxAAAAAJ&hl=en), and [Oriol Vinyals](https://scholar.google.com.sg/citations?user=NkzyCvUAAAAJ&hl=en). "**Understanding deep learning requires rethinking generalization**." In International Conference on Learning Representations, 2017. [[**paper**](https://arxiv.org/pdf/1611.03530)] [[**conference talk**](https://www.youtube.com/watch?v=kCj51pTQPKI)] [[**citations**](https://scholar.google.com.sg/scholar?cites=4613672282544622621&as_sdt=2005&sciodt=0,5&hl=en)]
 
@@ -170,6 +172,8 @@
   
   - [Moritz Hardt](https://scholar.google.com/citations?user=adnTgaAAAAAJ&hl=en), "**Fairness**." [[**Part I**](https://www.youtube.com/watch?v=Igq_S_7IfOU)], [[**Part II**](https://www.youtube.com/watch?v=9oNVFQ9llPc)]
   
+  - [Suresh Venkatasubramanian](https://scholar.google.com.sg/citations?user=Z03FLwkAAAAJ&hl=en), "**Algorithmic Fairness and Unfairness: A New Research Area**." 2019. [[**Talk**](https://www.youtube.com/watch?v=uneZRF6Rm08)] 
+  
 ### Measures 
 
 - [Cynthia Dwork](https://scholar.google.com/citations?user=y2H5xmkAAAAJ&hl=en), [Moritz Hardt](https://scholar.google.com/citations?user=adnTgaAAAAAJ&hl=en), Toniann Pitassi, [Omer Reingold](https://scholar.google.com/citations?user=TD9RhcgAAAAJ&hl=en), and [Richard Zemel](https://scholar.google.com/citations?user=iBeDoRAAAAAJ&hl=en). "**Fairness through awareness**." In Proceedings of the 3rd innovations in theoretical computer science conference, 2012. [[**paper**](https://arxiv.org/pdf/1104.3913)] [[**citations**](https://scholar.google.com/scholar?cites=15887350027958465759&as_sdt=2005&sciodt=0,5&hl=en)]
@@ -216,7 +220,19 @@
 ## Algorithmic Transparency
 
 - [Finale Doshi-Velez](https://scholar.google.com.sg/citations?user=hwQtFB0AAAAJ&hl=en), and [Been Kim](https://scholar.google.com.sg/citations?user=aGXkhcwAAAAJ&hl=en). "**Towards a rigorous science of interpretable machine learning**." arXiv preprint arXiv:1702.08608, 2017. [[**paper**](https://arxiv.org/pdf/1702.08608)] [[**talk by FDV**](https://www.youtube.com/watch?v=MMxZlr_L6YE)]
- 
+
+### Model Explanation
+
+- [Sandra Wachter](https://scholar.google.com.sg/citations?user=ZXBJVqYAAAAJ&hl=en), [Brent Mittelstadt](https://scholar.google.com.sg/citations?user=tP685zYAAAAJ&hl=en), and [Chris Russell](https://scholar.google.com.sg/citations?user=RM2sHhYAAAAJ&hl=en). "**Counterfactual explanations without opening the black box: Automated decisions and the GDPR**." Harvard Journal of Law & Technology, 2017. [[**paper**](https://jolt.law.harvard.edu/assets/articlePDFs/v31/Counterfactual-Explanations-without-Opening-the-Black-Box-Sandra-Wachter-et-al.pdf)] [[**citations**](https://scholar.google.com.sg/scholar?cites=5948704720199512282&as_sdt=2005&sciodt=0,5&hl=en)]
+
+- [Marco Tulio Ribeiro](https://scholar.google.com.sg/citations?user=rmsIyGMAAAAJ&hl=en), [Sameer Singh](https://scholar.google.com.sg/citations?user=-hGZC54AAAAJ&hl=en), and [Carlos Guestrin](https://scholar.google.com.sg/citations?user=DpLFv4gAAAAJ&hl=en). "**"Why should I trust you?" Explaining the predictions of any classifier**." In Proceedings of the 22nd ACM SIGKDD international conference on knowledge discovery and data mining, 2016. [[**paper**](https://arxiv.org/pdf/1602.04938)] [[**conference talk**](https://www.youtube.com/watch?v=KP7-JtFMLo4)] [[**citations**](https://scholar.google.com.sg/scholar?cites=16724302923321127943&as_sdt=2005&sciodt=0,5&hl=en)] 
+
+
+### Robustness
+
+- [Julius Adebayo](https://scholar.google.com.sg/citations?user=y1bnRg4AAAAJ&hl=en), [Justin Gilmer](https://scholar.google.com.sg/citations?user=Ml_vQ8MAAAAJ&hl=en), [Michael Muelly](https://scholar.google.com.sg/citations?user=F2SAhnQAAAAJ&hl=en), [Ian Goodfellow](https://scholar.google.com.sg/citations?user=iYN86KEAAAAJ&hl=en), [Moritz Hardt](https://scholar.google.com.sg/citations?user=adnTgaAAAAAJ&hl=en), and [Been Kim](https://scholar.google.com.sg/citations?user=aGXkhcwAAAAJ&hl=en). "**Sanity checks for saliency maps**." In Advances in Neural Information Processing Systems, 2018. [[**paper**](http://papers.neurips.cc/paper/8160-sanity-checks-for-saliency-maps.pdf)]
+
+
 ### Law and Policy
 
 - [Andrew D. Selbst](https://scholar.google.com.sg/citations?user=stza7JMAAAAJ&hl=en), and [Solon Barocas](https://scholar.google.com.sg/citations?user=rEjgIskAAAAJ&hl=en). "**The Intuitive Appeal of Explainable Machines**." Fordham law review 87, no. 3, 2018. [[**paper**](http://fordhamlawreview.org/wp-content/uploads/2018/11/11_Selbst-Barocas-1085-1139-updated-12-4.pdf)] 
