@@ -216,6 +216,8 @@
 
 - [Fairness in Machine Learning](https://docs.google.com/document/d/1XnbJXELA0L3CX41MxySdPsZ-HNECxPtAw4-kZRc7OPI/edit), [Arvind Narayanan](https://scholar.google.com/citations?user=0Bi5CMgAAAAJ&hl=en), Princeton, 2017.
 
+- [Human-Centered Machine Learning](http://courses.mpi-sws.org/hcml-ws18/schedule.html), [Krishna P. Gummadi](https://scholar.google.com.sg/citations?user=Bz3APTsAAAAJ&hl=en), MPI-Software, 2018.
+
 
 ## Algorithmic Transparency
 
