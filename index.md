@@ -223,6 +223,8 @@
 
 - [Finale Doshi-Velez](https://scholar.google.com.sg/citations?user=hwQtFB0AAAAJ&hl=en), and [Been Kim](https://scholar.google.com.sg/citations?user=aGXkhcwAAAAJ&hl=en). "**Towards a rigorous science of interpretable machine learning**." arXiv preprint arXiv:1702.08608, 2017. [[**paper**](https://arxiv.org/pdf/1702.08608)] [[**talk by FDV**](https://www.youtube.com/watch?v=MMxZlr_L6YE)]
 
+- [Brent Mittelstadt](https://scholar.google.com.sg/citations?user=tP685zYAAAAJ&hl=en), [Chris Russell](https://scholar.google.com.sg/citations?user=RM2sHhYAAAAJ&hl=en), and [Sandra Wachter](https://scholar.google.com.sg/citations?user=ZXBJVqYAAAAJ&hl=en). "**Explaining explanations in AI**." In Proceedings of the conference on fairness, accountability, and transparency, 2019. [[**paper**](https://arxiv.org/pdf/1811.01439)]
+
 - Overview talks
 
   - [Cynthia Rudin](https://scholar.google.com/citations?user=mezKJyoAAAAJ&hl=en). "**Do Simpler Models Exist and How Can We Find Them?**." [[**keynote talk at KDD**](https://www.youtube.com/watch?v=wL4X4lG20sM)]
