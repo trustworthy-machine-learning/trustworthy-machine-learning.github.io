@@ -243,6 +243,10 @@
 
 - [Cynthia Rudin](https://scholar.google.com/citations?user=mezKJyoAAAAJ&hl=en). "**Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead**." Nature Machine Intelligence 1, 2019. [[**paper**](https://arxiv.org/pdf/1811.10154)]
 
+### Recourse
+
+- [Berk Ustun](https://scholar.google.com.sg/citations?user=6z_XWYcAAAAJ&hl=en), [Alexander Spangher](https://scholar.google.com.sg/citations?user=pZEaPR8AAAAJ&hl=en), and [Yang Liu](https://scholar.google.com.sg/citations?user=jKrIVCIAAAAJ&hl=en). "**Actionable recourse in linear classification**." In Proceedings of the Conference on Fairness, Accountability, and Transparency, 2019. [[**paper**](https://arxiv.org/pdf/1809.06514)] [[**conference talk**](https://youtu.be/iZM4_YNw4Mw)] [[**citations**](https://scholar.google.com.sg/scholar?cites=9971779227054924463&as_sdt=2005&sciodt=0,5&hl=en)]
+
 ### Robustness
 
 - [Julius Adebayo](https://scholar.google.com.sg/citations?user=y1bnRg4AAAAJ&hl=en), [Justin Gilmer](https://scholar.google.com.sg/citations?user=Ml_vQ8MAAAAJ&hl=en), [Michael Muelly](https://scholar.google.com.sg/citations?user=F2SAhnQAAAAJ&hl=en), [Ian Goodfellow](https://scholar.google.com.sg/citations?user=iYN86KEAAAAJ&hl=en), [Moritz Hardt](https://scholar.google.com.sg/citations?user=adnTgaAAAAAJ&hl=en), and [Been Kim](https://scholar.google.com.sg/citations?user=aGXkhcwAAAAJ&hl=en). "**Sanity checks for saliency maps**." In Advances in Neural Information Processing Systems, 2018. [[**paper**](http://papers.neurips.cc/paper/8160-sanity-checks-for-saliency-maps.pdf)] [[**conference talk**](https://www.facebook.com/nipsfoundation/videos/515859272265612/)](starts at 53') [[**citations**](https://scholar.google.com.sg/scholar?cites=8767887416569707674&as_sdt=2005&sciodt=0,5&hl=en)]
@@ -251,11 +255,13 @@
 
 - [Dylan Slack](https://scholar.google.com/citations?user=pyhz-gUAAAAJ&hl=en), Sophie Hilgard, Emily Jia, [Sameer Singh](https://scholar.google.com/citations?user=-hGZC54AAAAJ&hl=en), and [Himabindu Lakkaraju](https://scholar.google.com/citations?user=oWid5PQAAAAJ&hl=en). "**Fooling lime and shap: Adversarial attacks on post hoc explanation methods**." In Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society, 2020. [[**paper**](https://arxiv.org/pdf/1911.02508)] [[**talk by HL**](https://www.youtube.com/watch?v=4HyJIOenIlI)] [[**citations**](https://scholar.google.com/scholar?cites=8884301126625541721&as_sdt=2005&sciodt=0,5&hl=en)]
 
-### Privacy
+### Privacy and Confidentiality
 
 - [Reza Shokri](https://scholar.google.com/citations?user=udlZXXcAAAAJ&hl=en), [Martin Strobel](https://scholar.google.com/citations?user=6p4Fg_wAAAAJ&hl=en), and [Yair Zick](https://scholar.google.com/citations?user=m0PW6DQAAAAJ&hl=en). "**On the Privacy Risks of Model Explanations**." arXiv preprint arXiv:1907.00164, 2019. [[**paper**](https://arxiv.org/pdf/1907.00164)] [[**citations**](https://scholar.google.com/scholar?cites=1863276377879092856&as_sdt=2005&sciodt=0,5&hl=en)]
 
-- [Neel Patel](https://scholar.google.com/citations?user=zN081ZcAAAAJ&hl=en), [Reza Shokri](https://scholar.google.com/citations?user=udlZXXcAAAAJ&hl=en), and [Yair Zick](https://scholar.google.com/citations?user=m0PW6DQAAAAJ&hl=en). "**Model Explanations with Differential Privacy**." arXiv preprint arXiv:2006.09129, 2020. [[**paper**](https://arxiv.org/pdf/2006.09129)]
+- [Neel Patel](https://scholar.google.com/citations?user=zN081ZcAAAAJ&hl=en), [Reza Shokri](https://scholar.google.com/citations?user=udlZXXcAAAAJ&hl=en), and [Yair Zick](https://scholar.google.com/citations?user=m0PW6DQAAAAJ&hl=en). "**Model Explanations with Differential Privacy**." arXiv preprint arXiv:2006.09129, 2020. [[**paper**](https://arxiv.org/pdf/2006.09129)] 
+
+- [Smitha Milli](https://scholar.google.com/citations?user=tsXh_hwAAAAJ&hl=en), [Ludwig Schmidt](https://scholar.google.com/citations?user=SWMKy70AAAAJ&hl=en), [Anca D. Dragan](https://scholar.google.com/citations?user=UgHB5oAAAAAJ&hl=en), and [Moritz Hardt](https://scholar.google.com/citations?user=adnTgaAAAAAJ&hl=en). "**Model reconstruction from model explanations**." In Proceedings of the Conference on Fairness, Accountability, and Transparency, 2019. [[**paper**](https://arxiv.org/pdf/1807.05185)] [[**conference talk**](https://youtu.be/iZM4_YNw4Mw?t=593)] [[**citations**](https://scholar.google.com/scholar?cites=10127227002337427345&as_sdt=2005&sciodt=0,5&hl=en)]
 
 ### Analysis 
 
@@ -264,4 +270,9 @@
 ### Law and Policy
 
 - [Andrew D. Selbst](https://scholar.google.com.sg/citations?user=stza7JMAAAAJ&hl=en), and [Solon Barocas](https://scholar.google.com.sg/citations?user=rEjgIskAAAAJ&hl=en). "**The Intuitive Appeal of Explainable Machines**." Fordham law review 87, no. 3, 2018. [[**paper**](http://fordhamlawreview.org/wp-content/uploads/2018/11/11_Selbst-Barocas-1085-1139-updated-12-4.pdf)] 
+
+### Related Courses and Schools
+
+- [Interpretability and Explainability in Machine Learning](https://interpretable-ml-class.github.io/), [Himabindu Lakkaraju](https://scholar.google.com/citations?user=oWid5PQAAAAJ&hl=en), Harvard, 2019.
+
 
