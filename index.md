@@ -129,9 +129,13 @@ We have selected different sub-topics and key related research papers (as starti
 
 - Matthew Jagielski, Alina Oprea, Battista Biggio, Chang Liu, Cristina Nita-Rotaru, Bo Li. "**Manipulating Machine Learning: Poisoning Attacks and Countermeasures for Regression Learning**" In IEEE Symposium on Security and Privacy, 2018. [[**paper**](https://arxiv.org/abs/1804.00308)]
 
-### Inference Phase - software 
+- Ilias Diakonikolas, Gautam Kamath, Daniel M. Kane, Jerry Li, Jacob Steinhardt, Alistair Stewart. **Sever: A Robust Meta-Algorithm for Stochastic Optimization**. In ICML 2019. [[**paper**](https://arxiv.org/abs/1803.02815)]
+
+### Inference Phase - adversarial examples against integrity 
 
 - [Ian Goodfellow](https://scholar.google.com.sg/citations?user=iYN86KEAAAAJ&hl=en), [Jonathon Shlens](https://scholar.google.com.sg/citations?user=x5bC-UwAAAAJ&hl=en), and [Christian Szegedy](https://scholar.google.com.sg/citations?user=3QeF7mAAAAAJ&hl=en). "**Explaining and harnessing adversarial examples**." International Conference on Learning Representations, 2015. [[**paper**](https://arxiv.org/pdf/1412.6572)] [[**citations**](https://scholar.google.com.sg/scholar?cites=14908107896544813002&as_sdt=2005&sciodt=0,5&hl=en)] [follow-ups: [**black-box**](https://arxiv.org/pdf/1602.02697), [**transferability**](https://arxiv.org/pdf/1605.07277), [**universal perturbation**](https://arxiv.org/pdf/1610.08401), [**detection**](https://arxiv.org/pdf/1705.07263), [**physical world**](https://arxiv.org/pdf/1707.08945.pdf)] 
+
+- Nicolas Papernot, Patrick McDaniel, Ian Goodfellow, Somesh Jha, Z. Berkay Celik, Ananthram Swami. "**Practical Black-Box Attacks against Machine Learning**". In Asia Conference on Computer and Communications Security, 2017. [[**paper](https://arxiv.org/abs/1602.02697)]
 
 - [Nicholas Carlini](https://scholar.google.com/citations?user=q4qDvAoAAAAJ&hl=en), and [David Wagner](https://scholar.google.com/citations?user=67kghxAAAAAJ&hl=en). "**Towards evaluating the robustness of neural networks**." In IEEE symposium on security and privacy (SP), 2017. [[**paper**](https://www.ieee-security.org/TC/SP2017/papers/518.pdf)] [[**conference talk**](https://www.youtube.com/watch?v=yIXNL88JBWQ)] [[**citations**](https://scholar.google.com/scholar?cites=6732985638826567603&as_sdt=2005&sciodt=0,5&hl=en)]
 
@@ -139,17 +143,17 @@ We have selected different sub-topics and key related research papers (as starti
 
 - [Yair Carmon](https://scholar.google.com/citations?user=kTKmpT0AAAAJ&hl=en), [Aditi Raghunathan](https://scholar.google.com/citations?user=Ch9iRwQAAAAJ&hl=en), [Ludwig Schmidt](https://scholar.google.com/citations?user=SWMKy70AAAAJ&hl=en), [John C. Duchi](https://scholar.google.com/citations?user=i5srt20AAAAJ&hl=en), and [Percy S. Liang](https://scholar.google.com/citations?user=pouyVyUAAAAJ&hl=en). "**Unlabeled data improves adversarial robustness**." In Advances in Neural Information Processing Systems, 2019. [[**paper**](https://papers.nips.cc/paper/9298-unlabeled-data-improves-adversarial-robustness.pdf)] [[**citations**](https://scholar.google.com/scholar?cites=5182550296368877701&as_sdt=2005&sciodt=0,5&hl=en)]
 
-### Inference Phase - hardware 
-
-- [Sanghyun Hong](https://scholar.google.com/citations?user=664LW90AAAAJ&hl=en), [Pietro Frigo](https://scholar.google.com/citations?user=WJLYoXcAAAAJ&hl=en), [Yiğitcan Kaya](https://scholar.google.com/citations?user=tPiXuV0AAAAJ&hl=en), [Cristiano Giuffrida](https://scholar.google.com/citations?user=2QmtNQsAAAAJ&hl=en), and [Tudor Dumitraș](https://scholar.google.com/citations?user=f6terwoAAAAJ&hl=en). "**Terminal brain damage: Exposing the graceless degradation in deep neural networks under hardware fault attacks**." In USENIX Security Symposium, 2019. [[**paper**](https://www.usenix.org/system/files/sec19-hong.pdf)] [[**conference talk**](https://www.youtube.com/watch?v=o_CY-cFNfRo)]
-
-- Ilia Shumailov, Yiren Zhao, Daniel Bates, Nicolas Papernot, Robert Mullins, Ross Anderson, "**Sponge Examples: Energy-Latency Attacks on Neural Networks**". Preprint, 2020. [[**paper**](https://arxiv.org/abs/2006.03463)]
-
 - Overview Talks
 
   - [Ian Goodfellow](https://scholar.google.com.sg/citations?user=iYN86KEAAAAJ&hl=en), "**Adversarial Examples and Adversarial Training**." 2017. [[Lecture](https://www.youtube.com/watch?v=CIfsB_EYsVI)]
   
   - [Zico Kolter](https://scholar.google.com.sg/citations?user=UXh1I6UAAAAJ&hl=en) and [Aleksander Madry](https://scholar.google.com/citations?user=SupjsEUAAAAJ&hl=en), "**Adversarial Robustness - Theory and Practice**." 2018. [[NeurIPS Tutorial](https://www.youtube.com/watch?v=TwP-gKBQyic)]
+  
+### Inference Phase - hardware attacks on availability
+
+- [Sanghyun Hong](https://scholar.google.com/citations?user=664LW90AAAAJ&hl=en), [Pietro Frigo](https://scholar.google.com/citations?user=WJLYoXcAAAAJ&hl=en), [Yiğitcan Kaya](https://scholar.google.com/citations?user=tPiXuV0AAAAJ&hl=en), [Cristiano Giuffrida](https://scholar.google.com/citations?user=2QmtNQsAAAAJ&hl=en), and [Tudor Dumitraș](https://scholar.google.com/citations?user=f6terwoAAAAJ&hl=en). "**Terminal brain damage: Exposing the graceless degradation in deep neural networks under hardware fault attacks**." In USENIX Security Symposium, 2019. [[**paper**](https://www.usenix.org/system/files/sec19-hong.pdf)] [[**conference talk**](https://www.youtube.com/watch?v=o_CY-cFNfRo)]
+
+- Ilia Shumailov, Yiren Zhao, Daniel Bates, Nicolas Papernot, Robert Mullins, Ross Anderson, "**Sponge Examples: Energy-Latency Attacks on Neural Networks**". Preprint, 2020. [[**paper**](https://arxiv.org/abs/2006.03463)]
   
   
 ### Testing and Verification
@@ -158,9 +162,16 @@ We have selected different sub-topics and key related research papers (as starti
 
 - [Gagandeep Singh](https://scholar.google.com/citations?user=m4b2ruEAAAAJ&hl=en), [Timon Gehr](https://scholar.google.com/citations?user=HcL76tsAAAAJ&hl=en), [Markus Püschel](https://scholar.google.com/citations?user=az9ZryAAAAAJ&hl=en), and [Martin Vechev](https://scholar.google.com/citations?user=aZ1Rh50AAAAJ&hl=en). "**An abstract domain for certifying neural networks**." Proceedings of the ACM on Programming Languages (POPL), 2019. [[**paper**](https://files.sri.inf.ethz.ch/website/papers/DeepPoly.pdf)] [[**conference talk**](https://www.youtube.com/watch?v=5Tkc1kgCXRI)] [[**citations**](https://scholar.google.com/scholar?cites=17913918431933235756&as_sdt=2005&sciodt=0,5&hl=en)]
 
+- Xiaowei Huang Marta Kwiatkowska  Sen Wang Min Wu. "**Safety Verification of Deep Neural Networks**". In Computer Aided Verification, 2017. [[**paper**](https://link.springer.com/chapter/10.1007/978-3-319-63387-9_1)]
+
+
 ### Tools and Libraries
 
 - [CleverHans](https://github.com/tensorflow/cleverhans)
+
+### Law and Policy
+
+- Ram Shankar Siva Kumar, Jonathon Penney, Bruce Schneier, Kendra Albert. "**Legal Risks of Adversarial Machine Learning Research**" In ICML 2020 Workshop on Law & Machine Learning. [[**paper**](https://arxiv.org/abs/2006.16179)]
 
 
 ## Algorithmic Fairness
