@@ -133,11 +133,11 @@ We have selected different sub-topics and key related research papers (as starti
 
 ### Inference Phase - adversarial examples against integrity 
 
-- [Ian Goodfellow](https://scholar.google.com.sg/citations?user=iYN86KEAAAAJ&hl=en), [Jonathon Shlens](https://scholar.google.com.sg/citations?user=x5bC-UwAAAAJ&hl=en), and [Christian Szegedy](https://scholar.google.com.sg/citations?user=3QeF7mAAAAAJ&hl=en). "**Explaining and harnessing adversarial examples**." International Conference on Learning Representations, 2015. [[**paper**](https://arxiv.org/pdf/1412.6572)] [[**citations**](https://scholar.google.com.sg/scholar?cites=14908107896544813002&as_sdt=2005&sciodt=0,5&hl=en)] [follow-ups: [**black-box**](https://arxiv.org/pdf/1602.02697), [**transferability**](https://arxiv.org/pdf/1605.07277), [**universal perturbation**](https://arxiv.org/pdf/1610.08401), [**detection**](https://arxiv.org/pdf/1705.07263), [**physical world**](https://arxiv.org/pdf/1707.08945.pdf)] 
+- [Ian Goodfellow](https://scholar.google.com.sg/citations?user=iYN86KEAAAAJ&hl=en), [Jonathon Shlens](https://scholar.google.com.sg/citations?user=x5bC-UwAAAAJ&hl=en), and [Christian Szegedy](https://scholar.google.com.sg/citations?user=3QeF7mAAAAAJ&hl=en). "**Explaining and harnessing adversarial examples**." International Conference on Learning Representations, 2015. [[**paper**](https://arxiv.org/pdf/1412.6572)] [[**citations**](https://scholar.google.com.sg/scholar?cites=14908107896544813002&as_sdt=2005&sciodt=0,5&hl=en)] [follow-ups: [[**universal perturbation**](https://arxiv.org/pdf/1610.08401), [**physical world**](https://arxiv.org/pdf/1707.08945.pdf), [**random steps in iterative adversarial training**](https://arxiv.org/abs/1706.06083), [**attacks on question answering**](https://arxiv.org/abs/1707.07328), [**attacks on audio and semantic segmentation**](https://arxiv.org/pdf/1707.05373.pdf)] 
 
-- Nicolas Papernot, Patrick McDaniel, Ian Goodfellow, Somesh Jha, Z. Berkay Celik, Ananthram Swami. "**Practical Black-Box Attacks against Machine Learning**". In Asia Conference on Computer and Communications Security, 2017. [[**paper](https://arxiv.org/abs/1602.02697)]
+- Nicolas Papernot, Patrick McDaniel, Ian Goodfellow, Somesh Jha, Z. Berkay Celik, Ananthram Swami. "**Practical Black-Box Attacks against Machine Learning**". In Asia Conference on Computer and Communications Security, 2017. [[**paper](https://arxiv.org/abs/1602.02697)] [follow-ups: [**transferability**](https://arxiv.org/pdf/1605.07277), [**gradient-free black-box attacks**](https://dl.acm.org/doi/abs/10.1145/3128572.3140448)]
 
-- [Nicholas Carlini](https://scholar.google.com/citations?user=q4qDvAoAAAAJ&hl=en), and [David Wagner](https://scholar.google.com/citations?user=67kghxAAAAAJ&hl=en). "**Towards evaluating the robustness of neural networks**." In IEEE symposium on security and privacy (SP), 2017. [[**paper**](https://www.ieee-security.org/TC/SP2017/papers/518.pdf)] [[**conference talk**](https://www.youtube.com/watch?v=yIXNL88JBWQ)] [[**citations**](https://scholar.google.com/scholar?cites=6732985638826567603&as_sdt=2005&sciodt=0,5&hl=en)]
+- [Nicholas Carlini](https://scholar.google.com/citations?user=q4qDvAoAAAAJ&hl=en), and [David Wagner](https://scholar.google.com/citations?user=67kghxAAAAAJ&hl=en). "**Towards evaluating the robustness of neural networks**." In IEEE symposium on security and privacy (SP), 2017. [[**paper**](https://www.ieee-security.org/TC/SP2017/papers/518.pdf)] [[**conference talk**](https://www.youtube.com/watch?v=yIXNL88JBWQ)] [[**citations**](https://scholar.google.com/scholar?cites=6732985638826567603&as_sdt=2005&sciodt=0,5&hl=en)] [follow-ups: [**evading detection**](https://arxiv.org/pdf/1705.07263)]
 
 - [Jeremy Cohen](https://scholar.google.com.sg/citations?user=r493814AAAAJ&hl=en), [Elan Rosenfeld](https://scholar.google.com.sg/citations?user=f0j0K8QAAAAJ&hl=en), and [Zico Kolter](https://scholar.google.com.sg/citations?user=UXh1I6UAAAAJ&hl=en). "**Certified Adversarial Robustness via Randomized Smoothing**." In International Conference on Machine Learning, 2019. [[**paper**](https://arxiv.org/pdf/1902.02918)] [[**talk by ZK**](https://www.youtube.com/watch?v=UHs2mGBH0Fg)] [[**citations**](https://scholar.google.com/scholar?cites=7039519782328477041&as_sdt=2005&sciodt=0,5&hl=en)]
 
@@ -168,6 +168,8 @@ We have selected different sub-topics and key related research papers (as starti
 ### Tools and Libraries
 
 - [CleverHans](https://github.com/tensorflow/cleverhans)
+
+- [Foolbox](https://github.com/bethgelab/foolbox)
 
 ### Law and Policy
 
