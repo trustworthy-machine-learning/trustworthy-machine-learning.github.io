@@ -1,8 +1,10 @@
 # Trustworthy Machine Learning
 
-Machine learning algorithms are trained on potentially sensitive data, and are increasingly being used in critical decision making processes. Can we trust machine learning frameworks to have access to personal data? Can we trust the models not to reveal personal information or sensitive decision rules? In the settings where training data is noisy or adversarially crafted, can we trust the algorithms to learn robust decision rules? Can we trust them to make correct predictions on adversarial or noisy data? In case the training data does not well represent the underlying population, minimizing the average loss on training data can lead to learning a model with different types of bias and discrimination against some groups. Can we build trustworthy algorithms that remove disparities and provide fair predictions for all groups? To identify various issues with machine learning algorithms and establish trust, can we provide informative interpretation of machine learning decisions? These are the major questions that the emerging research field of trustworthy machine learning aims to respond.
+List curated by Reza Shokri (National University of Singapore) and Nicolas Papernot (University of Toronto and Vector Institute)
 
-We have selected different sub-topics and key related research papers (as starting points) to help a student learn about this research area. There are so many good papers which are being published in this domain. This list is by no means comprehensive. Students are encouraged to dive deeper by reading the follow-up research papers.
+Machine learning algorithms are trained on potentially sensitive data, and are increasingly being used in critical decision making processes. Can we trust machine learning frameworks to have access to personal data? Can we trust the models not to reveal personal information or sensitive decision rules? In the settings where training data is noisy or adversarially crafted, can we trust the algorithms to learn robust decision rules? Can we trust them to make correct predictions on adversarial or noisy data? Bias affecting some groups in the population underlying a dataset can arise from both a lack of representation in data but also poor choices of learning algorithms. Can we build trustworthy algorithms that remove disparities and provide fair predictions for all groups? To identify various issues with machine learning algorithms and establish trust, can we provide informative interpretation of machine learning decisions? These are the major questions that the emerging research field of trustworthy machine learning aims to respond.
+
+We have selected different sub-topics and key related research papers (as starting points) to help a student learn about this research area. There are so many good papers which are being published in this domain. This list is by no means comprehensive. Papers are selected here with the intention of maximizing coverage of the techniques introduced in the literature in as few papers as possible. Students are encouraged to dive deeper by reading the follow-up research papers. 
 
 ## Privacy and Confidentiality
 
@@ -119,25 +121,27 @@ We have selected different sub-topics and key related research papers (as starti
   
   - [Ankur Moitra](https://scholar.google.com/citations?hl=en&user=umFQktIAAAAJ), "**Robustness Meets Algorithms**." 2019. [[**Talk**](https://www.youtube.com/watch?v=qxZQml1897Q)] 
 
+- Battista Biggio, Blaine Nelson, Pavel Laskov. "**Poisoning Attacks against Support Vector Machines**". In International Conference on Machine Learning, 2012. [[**paper](https://arxiv.org/abs/1206.6389)]
+
 - [Chiyuan Zhang](https://scholar.google.com.sg/citations?user=l_G2vr0AAAAJ&hl=en), [Samy Bengio](https://scholar.google.com.sg/citations?user=Vs-MdPcAAAAJ&hl=en), [Moritz Hardt](https://scholar.google.com.sg/citations?user=adnTgaAAAAAJ&hl=en), [Benjamin Recht](https://scholar.google.com.sg/citations?user=a_dbdxAAAAAJ&hl=en), and [Oriol Vinyals](https://scholar.google.com.sg/citations?user=NkzyCvUAAAAJ&hl=en). "**Understanding deep learning requires rethinking generalization**." In International Conference on Learning Representations, 2017. [[**paper**](https://arxiv.org/pdf/1611.03530)] [[**conference talk**](https://www.youtube.com/watch?v=kCj51pTQPKI)] [[**citations**](https://scholar.google.com.sg/scholar?cites=4613672282544622621&as_sdt=2005&sciodt=0,5&hl=en)]
 
 - [Jacob Steinhardt](https://scholar.google.com/citations?user=LKv32bgAAAAJ&hl=en), [Pang Wei W. Koh](https://scholar.google.com/citations?user=Nn990CkAAAAJ&hl=en), and [Percy S. Liang](https://scholar.google.com/citations?user=pouyVyUAAAAJ&hl=en). "**Certified defenses for data poisoning attacks**." In Advances in neural information processing systems, 2017. [[**paper**](http://papers.nips.cc/paper/6943-certified-defenses-for-data-poisoning-attacks.pdf)] [[**citations**](https://scholar.google.com/scholar?cites=10474944557566613837&as_sdt=2005&sciodt=0,5&hl=en)]
 
-- [Elan Rosenfeld](https://scholar.google.com/citations?user=f0j0K8QAAAAJ&hl=en), Ezra Winston, [Pradeep Ravikumar](https://scholar.google.com/citations?user=Q4DTPw4AAAAJ&hl=en), and [Zico Kolter](https://scholar.google.com.sg/citations?user=UXh1I6UAAAAJ&hl=en). "**Certified Robustness to Label-Flipping Attacks via Randomized Smoothing**." In International Conference on Machine Learning, 2020. [[**paper**](https://arxiv.org/pdf/2002.03018)]
+- Matthew Jagielski, Alina Oprea, Battista Biggio, Chang Liu, Cristina Nita-Rotaru, Bo Li. "**Manipulating Machine Learning: Poisoning Attacks and Countermeasures for Regression Learning**" In IEEE Symposium on Security and Privacy, 2018. [[**paper**](https://arxiv.org/abs/1804.00308)]
 
-### Inference Phase
+- Ilias Diakonikolas, Gautam Kamath, Daniel M. Kane, Jerry Li, Jacob Steinhardt, Alistair Stewart. **Sever: A Robust Meta-Algorithm for Stochastic Optimization**. In ICML 2019. [[**paper**](https://arxiv.org/abs/1803.02815)]
 
-- [Ian Goodfellow](https://scholar.google.com.sg/citations?user=iYN86KEAAAAJ&hl=en), [Jonathon Shlens](https://scholar.google.com.sg/citations?user=x5bC-UwAAAAJ&hl=en), and [Christian Szegedy](https://scholar.google.com.sg/citations?user=3QeF7mAAAAAJ&hl=en). "**Explaining and harnessing adversarial examples**." International Conference on Learning Representations, 2015. [[**paper**](https://arxiv.org/pdf/1412.6572)] [[**citations**](https://scholar.google.com.sg/scholar?cites=14908107896544813002&as_sdt=2005&sciodt=0,5&hl=en)] [follow-ups: [**black-box**](https://arxiv.org/pdf/1602.02697), [**transferability**](https://arxiv.org/pdf/1605.07277), [**universal perturbation**](https://arxiv.org/pdf/1610.08401), [**detection**](https://arxiv.org/pdf/1705.07263), [**physical world**](https://arxiv.org/pdf/1707.08945.pdf)] 
+### Inference Phase - adversarial examples against integrity 
 
-- [Nicholas Carlini](https://scholar.google.com/citations?user=q4qDvAoAAAAJ&hl=en), and [David Wagner](https://scholar.google.com/citations?user=67kghxAAAAAJ&hl=en). "**Towards evaluating the robustness of neural networks**." In IEEE symposium on security and privacy (SP), 2017. [[**paper**](https://www.ieee-security.org/TC/SP2017/papers/518.pdf)] [[**conference talk**](https://www.youtube.com/watch?v=yIXNL88JBWQ)] [[**citations**](https://scholar.google.com/scholar?cites=6732985638826567603&as_sdt=2005&sciodt=0,5&hl=en)]
+- [Ian Goodfellow](https://scholar.google.com.sg/citations?user=iYN86KEAAAAJ&hl=en), [Jonathon Shlens](https://scholar.google.com.sg/citations?user=x5bC-UwAAAAJ&hl=en), and [Christian Szegedy](https://scholar.google.com.sg/citations?user=3QeF7mAAAAAJ&hl=en). "**Explaining and harnessing adversarial examples**." International Conference on Learning Representations, 2015. [[**paper**](https://arxiv.org/pdf/1412.6572)] [[**citations**](https://scholar.google.com.sg/scholar?cites=14908107896544813002&as_sdt=2005&sciodt=0,5&hl=en)] [follow-ups: [[**universal perturbation**](https://arxiv.org/pdf/1610.08401), [**physical world**](https://arxiv.org/pdf/1707.08945.pdf), [**random steps in iterative adversarial training**](https://arxiv.org/abs/1706.06083), [**attacks on question answering**](https://arxiv.org/abs/1707.07328), [**attacks on audio and semantic segmentation**](https://arxiv.org/pdf/1707.05373.pdf)] 
 
-- [Aleksander Madry](https://scholar.google.com/citations?user=SupjsEUAAAAJ&hl=en), [Aleksandar Makelov](https://scholar.google.com/citations?user=haO4sKoAAAAJ&hl=en), [Ludwig Schmidt](https://scholar.google.com/citations?user=SWMKy70AAAAJ&hl=en), [Dimitris Tsipras](https://scholar.google.com/citations?user=26eh1jAAAAAJ&hl=en), and [Adrian Vladu](https://scholar.google.com/citations?user=5qh5cc0AAAAJ&hl=en). "**Towards Deep Learning Models Resistant to Adversarial Attacks**." In International Conference on Learning Representations, 2018. [[**paper**](https://arxiv.org/pdf/1706.06083)] [[**citations**](https://scholar.google.com/scholar?cites=14165082781627851489&as_sdt=2005&sciodt=0,5&hl=en)]
+- Nicolas Papernot, Patrick McDaniel, Ian Goodfellow, Somesh Jha, Z. Berkay Celik, Ananthram Swami. "**Practical Black-Box Attacks against Machine Learning**". In Asia Conference on Computer and Communications Security, 2017. [[**paper](https://arxiv.org/abs/1602.02697)] [follow-ups: [**transferability**](https://arxiv.org/pdf/1605.07277), [**gradient-free black-box attacks**](https://dl.acm.org/doi/abs/10.1145/3128572.3140448)]
+
+- [Nicholas Carlini](https://scholar.google.com/citations?user=q4qDvAoAAAAJ&hl=en), and [David Wagner](https://scholar.google.com/citations?user=67kghxAAAAAJ&hl=en). "**Towards evaluating the robustness of neural networks**." In IEEE symposium on security and privacy (SP), 2017. [[**paper**](https://www.ieee-security.org/TC/SP2017/papers/518.pdf)] [[**conference talk**](https://www.youtube.com/watch?v=yIXNL88JBWQ)] [[**citations**](https://scholar.google.com/scholar?cites=6732985638826567603&as_sdt=2005&sciodt=0,5&hl=en)] [follow-ups: [**evading detection**](https://arxiv.org/pdf/1705.07263)]
 
 - [Jeremy Cohen](https://scholar.google.com.sg/citations?user=r493814AAAAJ&hl=en), [Elan Rosenfeld](https://scholar.google.com.sg/citations?user=f0j0K8QAAAAJ&hl=en), and [Zico Kolter](https://scholar.google.com.sg/citations?user=UXh1I6UAAAAJ&hl=en). "**Certified Adversarial Robustness via Randomized Smoothing**." In International Conference on Machine Learning, 2019. [[**paper**](https://arxiv.org/pdf/1902.02918)] [[**talk by ZK**](https://www.youtube.com/watch?v=UHs2mGBH0Fg)] [[**citations**](https://scholar.google.com/scholar?cites=7039519782328477041&as_sdt=2005&sciodt=0,5&hl=en)]
 
 - [Yair Carmon](https://scholar.google.com/citations?user=kTKmpT0AAAAJ&hl=en), [Aditi Raghunathan](https://scholar.google.com/citations?user=Ch9iRwQAAAAJ&hl=en), [Ludwig Schmidt](https://scholar.google.com/citations?user=SWMKy70AAAAJ&hl=en), [John C. Duchi](https://scholar.google.com/citations?user=i5srt20AAAAJ&hl=en), and [Percy S. Liang](https://scholar.google.com/citations?user=pouyVyUAAAAJ&hl=en). "**Unlabeled data improves adversarial robustness**." In Advances in Neural Information Processing Systems, 2019. [[**paper**](https://papers.nips.cc/paper/9298-unlabeled-data-improves-adversarial-robustness.pdf)] [[**citations**](https://scholar.google.com/scholar?cites=5182550296368877701&as_sdt=2005&sciodt=0,5&hl=en)]
-
-- [Sanghyun Hong](https://scholar.google.com/citations?user=664LW90AAAAJ&hl=en), [Pietro Frigo](https://scholar.google.com/citations?user=WJLYoXcAAAAJ&hl=en), [Yiğitcan Kaya](https://scholar.google.com/citations?user=tPiXuV0AAAAJ&hl=en), [Cristiano Giuffrida](https://scholar.google.com/citations?user=2QmtNQsAAAAJ&hl=en), and [Tudor Dumitraș](https://scholar.google.com/citations?user=f6terwoAAAAJ&hl=en). "**Terminal brain damage: Exposing the graceless degradation in deep neural networks under hardware fault attacks**." In USENIX Security Symposium, 2019. [[**paper**](https://www.usenix.org/system/files/sec19-hong.pdf)] [[**conference talk**](https://www.youtube.com/watch?v=o_CY-cFNfRo)]
 
 - Overview Talks
 
@@ -145,7 +149,12 @@ We have selected different sub-topics and key related research papers (as starti
   
   - [Zico Kolter](https://scholar.google.com.sg/citations?user=UXh1I6UAAAAJ&hl=en) and [Aleksander Madry](https://scholar.google.com/citations?user=SupjsEUAAAAJ&hl=en), "**Adversarial Robustness - Theory and Practice**." 2018. [[NeurIPS Tutorial](https://www.youtube.com/watch?v=TwP-gKBQyic)]
   
-  - [Aleksander Madry](https://scholar.google.com/citations?user=SupjsEUAAAAJ&hl=en), "**A New Perspective on Adversarial Perturbations**." 2019. [[**talk**](https://www.youtube.com/watch?v=mUt7w4UoYqM)]
+### Inference Phase - hardware attacks on availability
+
+- [Sanghyun Hong](https://scholar.google.com/citations?user=664LW90AAAAJ&hl=en), [Pietro Frigo](https://scholar.google.com/citations?user=WJLYoXcAAAAJ&hl=en), [Yiğitcan Kaya](https://scholar.google.com/citations?user=tPiXuV0AAAAJ&hl=en), [Cristiano Giuffrida](https://scholar.google.com/citations?user=2QmtNQsAAAAJ&hl=en), and [Tudor Dumitraș](https://scholar.google.com/citations?user=f6terwoAAAAJ&hl=en). "**Terminal brain damage: Exposing the graceless degradation in deep neural networks under hardware fault attacks**." In USENIX Security Symposium, 2019. [[**paper**](https://www.usenix.org/system/files/sec19-hong.pdf)] [[**conference talk**](https://www.youtube.com/watch?v=o_CY-cFNfRo)]
+
+- Ilia Shumailov, Yiren Zhao, Daniel Bates, Nicolas Papernot, Robert Mullins, Ross Anderson, "**Sponge Examples: Energy-Latency Attacks on Neural Networks**". Preprint, 2020. [[**paper**](https://arxiv.org/abs/2006.03463)]
+  
   
 ### Testing and Verification
 
@@ -153,9 +162,18 @@ We have selected different sub-topics and key related research papers (as starti
 
 - [Gagandeep Singh](https://scholar.google.com/citations?user=m4b2ruEAAAAJ&hl=en), [Timon Gehr](https://scholar.google.com/citations?user=HcL76tsAAAAJ&hl=en), [Markus Püschel](https://scholar.google.com/citations?user=az9ZryAAAAAJ&hl=en), and [Martin Vechev](https://scholar.google.com/citations?user=aZ1Rh50AAAAJ&hl=en). "**An abstract domain for certifying neural networks**." Proceedings of the ACM on Programming Languages (POPL), 2019. [[**paper**](https://files.sri.inf.ethz.ch/website/papers/DeepPoly.pdf)] [[**conference talk**](https://www.youtube.com/watch?v=5Tkc1kgCXRI)] [[**citations**](https://scholar.google.com/scholar?cites=17913918431933235756&as_sdt=2005&sciodt=0,5&hl=en)]
 
+- Xiaowei Huang Marta Kwiatkowska  Sen Wang Min Wu. "**Safety Verification of Deep Neural Networks**". In Computer Aided Verification, 2017. [[**paper**](https://link.springer.com/chapter/10.1007/978-3-319-63387-9_1)]
+
+
 ### Tools and Libraries
 
 - [CleverHans](https://github.com/tensorflow/cleverhans)
+
+- [Foolbox](https://github.com/bethgelab/foolbox)
+
+### Law and Policy
+
+- Ram Shankar Siva Kumar, Jonathon Penney, Bruce Schneier, Kendra Albert. "**Legal Risks of Adversarial Machine Learning Research**" In ICML 2020 Workshop on Law & Machine Learning. [[**paper**](https://arxiv.org/abs/2006.16179)]
 
 
 ## Algorithmic Fairness
