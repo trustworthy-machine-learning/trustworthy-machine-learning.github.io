@@ -131,7 +131,9 @@ We have selected different sub-topics and key related research papers (as starti
 
 - Ilias Diakonikolas, Gautam Kamath, Daniel M. Kane, Jerry Li, Jacob Steinhardt, Alistair Stewart. **Sever: A Robust Meta-Algorithm for Stochastic Optimization**. In ICML 2019. [[**paper**](https://arxiv.org/abs/1803.02815)]
 
-### Inference Phase - adversarial examples against integrity 
+### Inference Phase
+
+#### Integrity
 
 - [Ian Goodfellow](https://scholar.google.com.sg/citations?user=iYN86KEAAAAJ&hl=en), [Jonathon Shlens](https://scholar.google.com.sg/citations?user=x5bC-UwAAAAJ&hl=en), and [Christian Szegedy](https://scholar.google.com.sg/citations?user=3QeF7mAAAAAJ&hl=en). "**Explaining and harnessing adversarial examples**." International Conference on Learning Representations, 2015. [[**paper**](https://arxiv.org/pdf/1412.6572)] [[**citations**](https://scholar.google.com.sg/scholar?cites=14908107896544813002&as_sdt=2005&sciodt=0,5&hl=en)] [follow-ups: [[**universal perturbation**](https://arxiv.org/pdf/1610.08401), [**physical world**](https://arxiv.org/pdf/1707.08945.pdf), [**random steps in iterative adversarial training**](https://arxiv.org/abs/1706.06083), [**attacks on question answering**](https://arxiv.org/abs/1707.07328), [**attacks on audio and semantic segmentation**](https://arxiv.org/pdf/1707.05373.pdf)] 
 
@@ -149,7 +151,7 @@ We have selected different sub-topics and key related research papers (as starti
   
   - [Zico Kolter](https://scholar.google.com.sg/citations?user=UXh1I6UAAAAJ&hl=en) and [Aleksander Madry](https://scholar.google.com/citations?user=SupjsEUAAAAJ&hl=en), "**Adversarial Robustness - Theory and Practice**." 2018. [[NeurIPS Tutorial](https://www.youtube.com/watch?v=TwP-gKBQyic)]
   
-### Inference Phase - hardware attacks on availability
+#### Availability
 
 - [Sanghyun Hong](https://scholar.google.com/citations?user=664LW90AAAAJ&hl=en), [Pietro Frigo](https://scholar.google.com/citations?user=WJLYoXcAAAAJ&hl=en), [Yiğitcan Kaya](https://scholar.google.com/citations?user=tPiXuV0AAAAJ&hl=en), [Cristiano Giuffrida](https://scholar.google.com/citations?user=2QmtNQsAAAAJ&hl=en), and [Tudor Dumitraș](https://scholar.google.com/citations?user=f6terwoAAAAJ&hl=en). "**Terminal brain damage: Exposing the graceless degradation in deep neural networks under hardware fault attacks**." In USENIX Security Symposium, 2019. [[**paper**](https://www.usenix.org/system/files/sec19-hong.pdf)] [[**conference talk**](https://www.youtube.com/watch?v=o_CY-cFNfRo)]
 
