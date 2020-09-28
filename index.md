@@ -121,7 +121,7 @@ We have selected different sub-topics and key related research papers (as starti
   
   - [Ankur Moitra](https://scholar.google.com/citations?hl=en&user=umFQktIAAAAJ), "**Robustness Meets Algorithms**." 2019. [[**Talk**](https://www.youtube.com/watch?v=qxZQml1897Q)] 
 
-- Battista Biggio, Blaine Nelson, Pavel Laskov. "**Poisoning Attacks against Support Vector Machines**". In International Conference on Machine Learning, 2012. [[**paper](https://arxiv.org/abs/1206.6389)]
+- Battista Biggio, Blaine Nelson, Pavel Laskov. "**Poisoning Attacks against Support Vector Machines**". In International Conference on Machine Learning, 2012. [[**paper**](https://arxiv.org/abs/1206.6389)]
 
 - [Chiyuan Zhang](https://scholar.google.com.sg/citations?user=l_G2vr0AAAAJ&hl=en), [Samy Bengio](https://scholar.google.com.sg/citations?user=Vs-MdPcAAAAJ&hl=en), [Moritz Hardt](https://scholar.google.com.sg/citations?user=adnTgaAAAAAJ&hl=en), [Benjamin Recht](https://scholar.google.com.sg/citations?user=a_dbdxAAAAAJ&hl=en), and [Oriol Vinyals](https://scholar.google.com.sg/citations?user=NkzyCvUAAAAJ&hl=en). "**Understanding deep learning requires rethinking generalization**." In International Conference on Learning Representations, 2017. [[**paper**](https://arxiv.org/pdf/1611.03530)] [[**conference talk**](https://www.youtube.com/watch?v=kCj51pTQPKI)] [[**citations**](https://scholar.google.com.sg/scholar?cites=4613672282544622621&as_sdt=2005&sciodt=0,5&hl=en)]
 
