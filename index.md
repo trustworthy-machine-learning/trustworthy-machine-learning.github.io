@@ -214,7 +214,7 @@ We have selected different sub-topics and key related research papers (as starti
 
 - [Alekh Agarwal](https://scholar.google.com/citations?user=9nnDvooAAAAJ&hl=en), Alina Beygelzimer, [Miroslav Dudík](https://scholar.google.com/citations?user=wYMTld8AAAAJ&hl=en), [John Langford](https://scholar.google.com/citations?user=LFiqVpwAAAAJ&hl=en), and [Hanna Wallach](https://scholar.google.com/citations?user=OcPVegoAAAAJ&hl=en). "**A reductions approach to fair classification**." In International Conference on Machine Learning, 2018. [[**paper**](https://arxiv.org/pdf/1803.02453)] [[**citations**](https://scholar.google.com/scholar?cites=16870675827052455946&as_sdt=2005&sciodt=0,5&hl=en)]
 
-- Štrumbelj, Erik, and Igor Kononenko. "**Explaining prediction models and individual predictions with feature contributions.**" Knowledge and information systems 41.3 (2014): 647-665. [[**paper**](https://link.springer.com/article/10.1007/s10115-013-0679-x)]
+- B. H. Zhang, B. Lemoine, and M. Mitchell, "**Mitigating Unwanted Biases with Adversarial Learning**." in Proceedings of the 2018 AAAI/ACM Conference on AI, Ethics, and Society - AIES ’18 [[**paper**](https://arxiv.org/abs/1801.07593)]
 
 ### Analysis
 
@@ -224,7 +224,7 @@ We have selected different sub-topics and key related research papers (as starti
 
 - [Lydia T. Liu](https://scholar.google.com.sg/citations?user=IQ2eTA8AAAAJ&hl=en), [Sarah Dean](https://scholar.google.com.sg/citations?user=xhKqjpYAAAAJ&hl=en), [Esther Rolf](https://scholar.google.com.sg/citations?user=n1EE3-8AAAAJ&hl=en), [Max Simchowitz](https://scholar.google.com.sg/citations?user=QhG_7egAAAAJ&hl=en), and [Moritz Hardt](https://scholar.google.com.sg/citations?user=adnTgaAAAAAJ&hl=en). "**Delayed impact of fair machine learning**." In International Conference on Machine Learning, 2018. [[**paper**](http://proceedings.mlr.press/v80/liu18c/liu18c.pdf)] [[**talk by LL**](https://www.youtube.com/watch?v=8cDVtXjvq9s)] [[**citations**](https://scholar.google.com/scholar?client=firefox-b-d&um=1&ie=UTF-8&lr&cites=5181623229195224544)]
 
-- E Awad (MIT), S Dsouza (MIT), R Kim R (MIT), J Schulz (Harvard), J Henrich (Harvard), A Shariff (U of British Columbia), JF Bonnefon (Universitie Toulouse Capitole), I Rahwan (MIT). "**The Moral Machine Experiment**". Nature 2018. [[**paper**](https://www.nature.com/articles/s41586-018-0637-6)]
+- Awad, Edmond, Sohan Dsouza, Richard Kim, Jonathan Schulz, Joseph Henrich, Azim Shariff, Jean-François Bonnefon, and Iyad Rahwan. "**The Moral Machine Experiment**". in Nature 2018. [[**paper**](https://www.nature.com/articles/s41586-018-0637-6)]
 
 ### Robustness
 
@@ -233,8 +233,6 @@ We have selected different sub-topics and key related research papers (as starti
 - [Heinrich Jiang](https://scholar.google.com.sg/citations?user=RiDdF2YAAAAJ&hl=en), and [Ofir Nachum](https://scholar.google.com.sg/citations?user=C-ZlBWMAAAAJ&hl=en). "**Identifying and correcting label bias in machine learning**." In International Conference on Artificial Intelligence and Statistics, 2020. [[**paper**](http://proceedings.mlr.press/v108/jiang20a/jiang20a.pdf)]
 
 - Hongyan Chang, Ta Duy Nguyen, Sasi Kumar Murakonda, [Ehsan Kazemi](https://scholar.google.com.sg/citations?user=kdyalCwAAAAJ&hl=en), and [Reza Shokri](https://scholar.google.com/citations?user=udlZXXcAAAAJ&hl=en). "**On Adversarial Bias and the Robustness of Fair Machine Learning**." arXiv preprint arXiv:2006.08669, 2020. [[**paper**](https://arxiv.org/pdf/2006.08669)]
-
-- B. H. Zhang, B. Lemoine, and M. Mitchell, "**Mitigating Unwanted Biases with Adversarial Learning**." in Proceedings of the 2018 AAAI/ACM Conference on AI, Ethics, and Society - AIES ’18 [[**paper**](https://arxiv.org/abs/1801.07593)]
 
 ### Related Courses and Schools
 
