@@ -1,6 +1,6 @@
 # Trustworthy Machine Learning
 
-List curated by Reza Shokri (National University of Singapore) and Nicolas Papernot (University of Toronto and Vector Institute)
+List curated by [Reza Shokri](https://scholar.google.com/citations?user=udlZXXcAAAAJ&hl=en) (National University of Singapore) and [Nicolas Papernot](https://scholar.google.com.sg/citations?user=cGxq0cMAAAAJ&hl=en) (University of Toronto and Vector Institute)
 
 Machine learning algorithms are trained on potentially sensitive data, and are increasingly being used in critical decision making processes. Can we trust machine learning frameworks to have access to personal data? Can we trust the models not to reveal personal information or sensitive decision rules? In the settings where training data is noisy or adversarially crafted, can we trust the algorithms to learn robust decision rules? Can we trust them to make correct predictions on adversarial or noisy data? Bias affecting some groups in the population underlying a dataset can arise from both a lack of representation in data but also poor choices of learning algorithms. Can we build trustworthy algorithms that remove disparities and provide fair predictions for all groups? To identify various issues with machine learning algorithms and establish trust, can we provide informative interpretation of machine learning decisions? These are the major questions that the emerging research field of trustworthy machine learning aims to respond.
 
