@@ -151,6 +151,10 @@ We have selected different sub-topics and key related research papers (as starti
   
   - [Zico Kolter](https://scholar.google.com.sg/citations?user=UXh1I6UAAAAJ&hl=en) and [Aleksander Madry](https://scholar.google.com/citations?user=SupjsEUAAAAJ&hl=en), "**Adversarial Robustness - Theory and Practice**." 2018. [[NeurIPS Tutorial](https://www.youtube.com/watch?v=TwP-gKBQyic)]
   
+- Benchmarks
+
+  - Aleksander Madry, Aleksandar Makelov, Ludwig Schmidt, Dimitris Tsipras, Adrian Vladu. "**Towards Deep Learning Models Resistant to Adversarial Attacks**." In ICLR, 2018. [[**paper**](https://arxiv.org/abs/1706.06083)]
+  
 #### Availability
 
 - [Sanghyun Hong](https://scholar.google.com/citations?user=664LW90AAAAJ&hl=en), [Pietro Frigo](https://scholar.google.com/citations?user=WJLYoXcAAAAJ&hl=en), [Yiğitcan Kaya](https://scholar.google.com/citations?user=tPiXuV0AAAAJ&hl=en), [Cristiano Giuffrida](https://scholar.google.com/citations?user=2QmtNQsAAAAJ&hl=en), and [Tudor Dumitraș](https://scholar.google.com/citations?user=f6terwoAAAAJ&hl=en). "**Terminal brain damage: Exposing the graceless degradation in deep neural networks under hardware fault attacks**." In USENIX Security Symposium, 2019. [[**paper**](https://www.usenix.org/system/files/sec19-hong.pdf)] [[**conference talk**](https://www.youtube.com/watch?v=o_CY-cFNfRo)]
