@@ -110,6 +110,7 @@ We have selected different sub-topics and key related research papers (as starti
 
 - [The Algorithmic Foundations of Adaptive Data Analysis](https://adaptivedataanalysis.com/), [Adam Smith](https://scholar.google.com.sg/citations?user=fkGi-JMAAAAJ&hl=en) and [Aaron Roth](https://scholar.google.com/citations?user=kLUQrrYAAAAJ&hl=en), UPenn and Boston University, 2017.
 
+- [Algorithms for Private Data Analysis](http://www.gautamkamath.com/CS860-fa2020.html), [Gautam Kamath](https://scholar.google.com/citations?user=MK6zHkYAAAAJ&hl=en), University of Waterloo, 2020.
 
 ## Robustness
 
@@ -181,6 +182,9 @@ We have selected different sub-topics and key related research papers (as starti
 
 - Ram Shankar Siva Kumar, Jonathon Penney, Bruce Schneier, Kendra Albert. "**Legal Risks of Adversarial Machine Learning Research**" In ICML 2020 Workshop on Law & Machine Learning. [[**paper**](https://arxiv.org/abs/2006.16179)]
 
+### Related Courses and Schools
+
+- [Reliable and Interpretable Artificial Intelligence](https://www.sri.inf.ethz.ch/teaching/riai2020), [Martin Vechev](https://scholar.google.com/citations?user=aZ1Rh50AAAAJ&hl=en), ETH Zurich, 2020.
 
 ## Algorithmic Fairness
 
@@ -252,9 +256,9 @@ We have selected different sub-topics and key related research papers (as starti
 
 ### Tools and libraries
 
--  IBM AIF360 https://github.com/Trusted-AI/AIF360
+-  [IBM AIF360](https://github.com/Trusted-AI/AIF360)
 
--  Microsoft fairlearn https://github.com/fairlearn/fairlearn
+-  [Microsoft Fairlearn](https://github.com/fairlearn/fairlearn)
 
 ## Algorithmic Transparency
 
