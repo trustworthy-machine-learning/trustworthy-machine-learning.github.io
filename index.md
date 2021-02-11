@@ -102,6 +102,8 @@ We have selected different sub-topics and key related research papers (as starti
 
 ### Related Courses and Schools
 
+- [Privacy in Statistics and Machine Learning](https://dpcourse.github.io), [Adam Smith](https://scholar.google.com.sg/citations?user=fkGi-JMAAAAJ&hl=en) and [Jonathan Ullman](https://scholar.google.com.sg/citations?user=WfS41RAAAAAJ&hl=en), 2021. 
+
 - [Data Privacy: Foundations and Applications](https://simons.berkeley.edu/programs/privacy2019), Simons Institute for the Theory of Computing, 2019. 
 
 - [Applied Privacy for Data Science](http://people.seas.harvard.edu/~salil/cs208/), [James Honaker](https://scholar.google.com/citations?user=q0WV4cgAAAAJ&hl=en) and [Salil Vadhan](https://scholar.google.com/citations?user=dqVjyRQAAAAJ&hl=en), Harvard, 2019.
