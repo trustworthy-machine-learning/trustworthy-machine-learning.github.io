@@ -20,6 +20,9 @@ We have selected different sub-topics and key related research papers (as starti
 
 - [Congzheng Song](https://scholar.google.com/citations?user=lkPKfjgAAAAJ&hl=en), and [Ananth Raghunathan](https://scholar.google.com/citations?user=KQNjz6cAAAAJ&hl=en). "**Information Leakage in Embedding Models**." In Proceedings of the ACM SIGSAC Conference on Computer and Communications Security, 2020. [[**paper**](https://arxiv.org/pdf/2004.00053)]
 
+- [Nicholas Carlini](https://scholar.google.com/citations?user=q4qDvAoAAAAJ&hl=en), [Florian Tramèr](https://scholar.google.com.sg/citations?user=ijH0-a8AAAAJ&hl=en&oi=sra), Eric Wallace, Matthew Jagielski, Ariel Herbert-Voss, Katherine Lee, Adam Roberts et al. "**Extracting training data from large language models**." In Proceedings of USENIX Security, 2021. [[**paper**](https://arxiv.org/pdf/2012.07805.pdf)]
+
+
 #### Memorization 
 
 - [Nicholas Carlini](https://scholar.google.com/citations?user=q4qDvAoAAAAJ&hl=en), Chang Liu, [Úlfar Erlingsson](https://scholar.google.com/citations?user=cX2HlhQAAAAJ&hl=en), Jernej Kos, and [Dawn Song](https://scholar.google.com/citations?user=84WzBlYAAAAJ&hl=en). "**The secret sharer: Evaluating and testing unintended memorization in neural networks**." In USENIX Security Symposium, 2019. [[**paper**](https://www.usenix.org/system/files/sec19-carlini.pdf)]  [[**conference talk**](https://www.youtube.com/watch?v=U9XbFtCWedE)] [[**citations**](https://scholar.google.com/scholar?cites=14719809661253001007&as_sdt=2005&sciodt=0,5&hl=en)]
@@ -53,6 +56,8 @@ We have selected different sub-topics and key related research papers (as starti
 - [Nicolas Papernot](https://scholar.google.com.sg/citations?user=cGxq0cMAAAAJ&hl=en), [Martin Abadi](https://scholar.google.com.sg/citations?user=vWTI60AAAAAJ&hl=en), [Úlfar Erlingsson](https://scholar.google.com/citations?user=cX2HlhQAAAAJ&hl=en), [Ian Goodfellow](https://scholar.google.com.sg/citations?user=iYN86KEAAAAJ&hl=en), and [Kunal Talwar](https://scholar.google.com.sg/citations?user=XD_01h8AAAAJ&hl=en). "**Semi-supervised knowledge transfer for deep learning from private training data**." In Proceedings of the 5th International Conference on Learning Representations, 2017. [[**paper**](https://arxiv.org/pdf/1610.05755)] [[**conference talk**](https://www.youtube.com/watch?v=bDayquwDgjU)] [[**follow-up paper**](https://arxiv.org/pdf/1802.08908)] [[**citations**](https://scholar.google.com.sg/scholar?cites=7453137533162499463&as_sdt=2005&sciodt=0,5&hl=en)]
 
 - [Milad Nasr](https://scholar.google.com/citations?user=k6-nvDAAAAAJ&hl=en), [Reza Shokri](https://scholar.google.com/citations?user=udlZXXcAAAAJ&hl=en), and [Amir Houmansadr](https://scholar.google.com/citations?user=cTTFHNwAAAAJ&hl=en). "**Machine learning with membership privacy using adversarial regularization**." In Proceedings of the 2018 ACM SIGSAC Conference on Computer and Communications Security, 2018. [[**paper**](https://www.comp.nus.edu.sg/~reza/files/Shokri-CCS2018.pdf)] [[**conference talk**](https://www.youtube.com/watch?v=53gELTL3ibA)] [[**citations**](https://scholar.google.com.sg/scholar?cites=8366684875630861099&as_sdt=2005&sciodt=0,5&hl=en)]
+
+- [Florian Tramèr](https://scholar.google.com.sg/citations?user=ijH0-a8AAAAJ&hl=en&oi=sra), and [Dan Boneh](https://scholar.google.com.sg/citations?hl=en&user=MwLqCs4AAAAJ). "**Differentially Private Learning Needs Better Features (or Much More Data)**." In International Conference on Learning Representations, 2020. [[**paper**](https://arxiv.org/pdf/2012.07805.pdf)
 
 - Overview Talks
 
@@ -302,7 +307,7 @@ We have selected different sub-topics and key related research papers (as starti
 
 ### Privacy and Confidentiality
 
-- [Reza Shokri](https://scholar.google.com/citations?user=udlZXXcAAAAJ&hl=en), [Martin Strobel](https://scholar.google.com/citations?user=6p4Fg_wAAAAJ&hl=en), and [Yair Zick](https://scholar.google.com/citations?user=m0PW6DQAAAAJ&hl=en). "**On the Privacy Risks of Model Explanations**." arXiv preprint arXiv:1907.00164, 2019. [[**paper**](https://arxiv.org/pdf/1907.00164)] [[**citations**](https://scholar.google.com/scholar?cites=1863276377879092856&as_sdt=2005&sciodt=0,5&hl=en)]
+- [Reza Shokri](https://scholar.google.com/citations?user=udlZXXcAAAAJ&hl=en), [Martin Strobel](https://scholar.google.com/citations?user=6p4Fg_wAAAAJ&hl=en), and [Yair Zick](https://scholar.google.com/citations?user=m0PW6DQAAAAJ&hl=en). "**On the Privacy Risks of Model Explanations**." AAAI/ACM Conference on AI, Ethics, and Society (AIES), 2021. [[**paper**](https://arxiv.org/pdf/1907.00164)] [[**citations**](https://scholar.google.com/scholar?cites=1863276377879092856&as_sdt=2005&sciodt=0,5&hl=en)]
 
 - [Neel Patel](https://scholar.google.com/citations?user=zN081ZcAAAAJ&hl=en), [Reza Shokri](https://scholar.google.com/citations?user=udlZXXcAAAAJ&hl=en), and [Yair Zick](https://scholar.google.com/citations?user=m0PW6DQAAAAJ&hl=en). "**Model Explanations with Differential Privacy**." arXiv preprint arXiv:2006.09129, 2020. [[**paper**](https://arxiv.org/pdf/2006.09129)] 
 
